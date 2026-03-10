@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "text": "You people are all the same, completely worthless and stupid.",
+    "toxicity_score": 0.92,
+    "category": "insult"
+  },
+  {
+    "id": 2,
+    "text": "People from that country are inferior and should go back where they came from.",
+    "toxicity_score": 0.95,
+    "category": "identity_attack"
+  },
+  {
+    "id": 3,
+    "text": "Shut up you pathetic loser, nobody wants to hear your garbage opinions.",
+    "toxicity_score": 0.88,
+    "category": "insult"
+  },
+  {
+    "id": 4,
+    "text": "That group of people is a disease on our society and needs to be eliminated.",
+    "toxicity_score": 0.97,
+    "category": "severe_toxicity"
+  },
+  {
+    "id": 5,
+    "text": "Your ideas are trash and you should be ashamed for even suggesting them.",
+    "toxicity_score": 0.82,
+    "category": "insult"
+  },
+  {
+    "id": 6,
+    "text": "Those people are all criminals and they're ruining our neighborhood.",
+    "toxicity_score": 0.85,
+    "category": "identity_attack"
+  },
+  {
+    "id": 7,
+    "text": "I wish something terrible would happen to people who think like you.",
+    "toxicity_score": 0.91,
+    "category": "threat"
+  },
+  {
+    "id": 8,
+    "text": "You're disgusting and everyone who knows you thinks the same thing.",
+    "toxicity_score": 0.87,
+    "category": "insult"
+  },
+  {
+    "id": 9,
+    "text": "Immigrants are stealing all our resources and destroying our culture.",
+    "toxicity_score": 0.89,
+    "category": "identity_attack"
+  },
+  {
+    "id": 10,
+    "text": "What a complete waste of space you are, the world would be better off without you.",
+    "toxicity_score": 0.94,
+    "category": "severe_toxicity"
+  }
+]
