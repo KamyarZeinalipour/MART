@@ -49,7 +49,7 @@ The **MART** (Multi-Agent Red Team) framework is a modular adversarial testing s
 | **Metrics** | `mart/metrics.py` | 8 evaluation metrics (RR, ASR, MAAF, SI, FDR, CFT, etc.) |
 | **Verifier** | `mart/verifier.py` | 3-strategy toxicity preservation verification |
 
-### 1.3 Advanced Attack Modules
+### 1.3 Advanced Attack Modules (Wave 1)
 
 | Module | File | Strategy |
 |--------|------|----------|
@@ -57,6 +57,15 @@ The **MART** (Multi-Agent Red Team) framework is a modular adversarial testing s
 | **Multi-Turn Poisoning** | `mart/multiturn_attack.py` | Conversational toxicity fragmentation |
 | **Token Manipulation** | `mart/token_attack.py` | Character-level adversarial perturbations |
 | **Contrastive Self-Play** | `mart/self_play.py` | GAN-like attacker-defender co-evolution |
+
+### 1.4 Advanced Attack Modules (Wave 2)
+
+| Module | File | Strategy |
+|--------|------|----------|
+| **Cross-Lingual** | `mart/crosslingual_attack.py` | Multilingual code-switching across 7 languages |
+| **Persona/Roleplay** | `mart/persona_attack.py` | 6 fictional framing personas |
+| **Socratic Questioning** | `mart/socratic_attack.py` | Toxic statements → innocent-seeming questions |
+| **Semantic Trojan** | `mart/trojan_attack.py` | Steganographic encoding (acrostic, allegory, sarcasm) |
 
 ---
 
@@ -295,6 +304,84 @@ Per-turn analysis shows most individual turns scored between **0.25–0.36** (we
 
 ---
 
+### 4.5 Wave 2 Attacks
+
+#### 4.5.1 🌍 Cross-Lingual Code-Switching
+
+**Setup**: 2 samples × 4 strategies, 7 target languages, 3-filter ensemble.
+
+| Strategy | Success | ASR | Key Observation |
+|----------|---------|-----|-----------------|
+| Academic Foreign | 1/2 | **50%** | Embedding toxic meaning in Swahili/Hindi academic phrases |
+| Dialogue | 1/2 | **50%** | Bilingual dialogue hides meaning across speakers |
+| Codeswitch | 0/2 | 0% | Natural code-switching still detected |
+| Keyword Sub | 0/2 | 0% | Simple word substitution insufficient |
+
+**Success Rate: 2/8 (25%)**
+
+> [!NOTE]
+> **Key Finding**: LLM-generated multilingual strategies (academic_foreign, dialogue) are more effective than rule-based approaches (keyword_sub). The filter struggles when toxic meaning is carried in non-English phrases within English grammatical structure.
+
+---
+
+#### 4.5.2 🎭 Persona / Roleplay Attack
+
+**Setup**: 2 samples × 6 personas, 3-filter ensemble.
+
+| Persona | Success | ASR | Why |
+|---------|---------|-----|-----|
+| Devil's Advocate | 1/2 | **50%** | Debate framing neutralizes toxic signals |
+| Villain Novel | 0/2 | 0% | Fiction framing detected |
+| Historical Analysis | 0/2 | 0% | "Historical document" still flagged |
+| Safety Training | 0/2 | 0% | "Training data" excuse doesn't fool LLM filter |
+| Sociological Study | 0/2 | 0% | Academic framing detected |
+| Screenplay | 0/2 | 0% | Character dialogue still flagged |
+
+**Success Rate: 1/12 (8%)**
+
+> [!NOTE]
+> **Key Finding**: Most persona-based attacks fail because the LLM filter sees through fictional framing. The **devil's advocate** persona works best because debate framing is genuinely ambiguous — arguing a position forcefully is not inherently toxic.
+
+---
+
+#### 4.5.3 ❓ Socratic Questioning
+
+**Setup**: 2 samples × 5 strategies, 3-filter ensemble.
+
+| Strategy | Success | ASR | Technique |
+|----------|---------|-----|-----------|
+| JAQ (Just Asking Questions) | 1/2 | **50%** | "I'm not saying X, but..." |
+| Loaded Questions | 1/2 | **50%** | Toxic belief as question presupposition |
+| Research Questions | 1/2 | **50%** | "To what extent does..." framing |
+| Leading Questions | 0/2 | 0% | "Wouldn't you say..." too transparent |
+| Rhetorical Questions | 0/2 | 0% | "Isn't it obvious..." too aggressive |
+
+**Success Rate: 3/10 (30%)**
+
+> [!IMPORTANT]
+> **Key Finding**: Converting toxic **statements** into **questions** is a highly effective evasion technique. Questions with embedded assumptions (loaded, JAQ, research) are especially hard to flag because they make no explicit assertions. This is a **fundamental weakness** in current safety filters — they are trained primarily on declarative toxic statements, not interrogative forms.
+
+---
+
+#### 4.5.4 🎯 Semantic Trojan
+
+**Setup**: 2 samples × 5 strategies, 3-filter ensemble.
+
+| Strategy | Success | ASR | How It Hides |
+|----------|---------|-----|--------------|
+| Allegory | 1/2 | **50%** | Animal fable carries toxic meaning as subtext |
+| Definition Hijack | 1/2 | **50%** | Custom vocabulary encodes toxic meaning |
+| Acrostic | 0/2 | 0% | First-letter encoding too weak |
+| Context Sandwich | 0/2 | 0% | Buried toxic sentence still detected |
+| Sentiment Inversion | 0/2 | 0% | Sarcasm/irony detected by LLM filter |
+
+**Success Rate: 2/10 (20%)**
+
+> [!TIP]
+> **Key Finding**: **Allegory** and **definition hijack** are the most effective steganographic techniques. Allegory works because animal fables are genuinely neutral on the surface — the toxic mapping only exists in the reader's interpretation. Definition hijack is interesting because the coded vocabulary creates a layer of indirection that filters can't decode without understanding the custom definitions.
+
+---
+
 ## 5. Cross-Attack Comparison
 
 | Attack Method | ASR | Sem. Pres. | API Cost | Best Use Case |
@@ -304,19 +391,27 @@ Per-turn analysis shows most individual turns scored between **0.25–0.36** (we
 | **MART Loop** (4 filters) | 50% | 0.61 SI | Medium (~15 calls) | Harder filters |
 | **Genetic Algorithm** | **100%** | 0.80 fitness | High (~50 calls) | **Population diversity beats sequential** |
 | **Multi-Turn Poisoning** | **67%** | 0.90–0.95 | Low (~10 calls) | **Highest semantic preservation** |
-| **Token Manipulation** | 0% | N/A | **Zero** LLM calls | Only works on keyword filters |
+| ❓ **Socratic Questioning** | **30%** | — | Low (~5 calls) | **Questions exploit filter blindspot** |
+| 🌍 **Cross-Lingual** | **25%** | 0.95–1.0 | Low (~5 calls) | **Multilingual gap exploitation** |
+| 🎯 **Semantic Trojan** | **20%** | — | Low (~3 calls) | **Steganographic encoding** |
+| 🎭 **Persona/Roleplay** | **8%** | — | Low (~3 calls) | Fictional framing |
 | **Contrastive Self-Play** | 6.25% | — | Highest (~80 calls) | Defense research |
+| **Token Manipulation** | 0% | N/A | **Zero** LLM calls | Only works on keyword filters |
 
 ### Attack Effectiveness Ranking
 
 ```
-🥇 Genetic Algorithm     (100% ASR, works even with 4 filters)
-🥈 MART Loop - 3 filters (100% ASR, strong iterative refinement)
-🥉 Multi-Turn Poisoning  (67% ASR, highest meaning preservation)
-4. MART Loop - 4 filters (50% ASR, Perspective API is effective)
-5. Single-Agent Baseline  (67% ASR, no refinement)
-6. Self-Play Attacker     (6.25% ASR, defender learns too fast)
-7. Token Manipulation     (0% ASR, LLM filters immune)
+🥇 Genetic Algorithm       (100% ASR — population diversity wins)
+🥈 MART Loop - 3 filters   (100% ASR — iterative refinement)
+🥉 Multi-Turn Poisoning     (67% ASR — highest semantic preservation)
+4.  MART Loop - 4 filters   (50% ASR — Perspective API is effective)
+5.  Single-Agent Baseline    (67% ASR — no refinement)
+6.  Socratic Questioning     (30% ASR — questions exploit blindspot)  ← NEW
+7.  Cross-Lingual            (25% ASR — multilingual gap)             ← NEW
+8.  Semantic Trojan           (20% ASR — steganographic encoding)      ← NEW
+9.  Persona/Roleplay          (8% ASR — fictional framing)            ← NEW
+10. Self-Play Attacker        (6% ASR — defender learns too fast)
+11. Token Manipulation        (0% ASR — LLM filters immune)
 ```
 
 ---
@@ -339,6 +434,12 @@ Per-turn analysis shows most individual turns scored between **0.25–0.36** (we
 
 7. **Toxicity is genuinely preserved**: Back-translation verification confirmed 100% of rewrites maintained toxic intent (mean score: 0.71). The model is NOT secretly detoxifying.
 
+8. **Questions are harder to flag than statements**: Socratic questioning (30% ASR) shows that converting assertions into questions with embedded assumptions is a fundamental blindspot — filters are trained on declarative toxicity.
+
+9. **Multilingual attacks exploit training gaps**: Cross-lingual code-switching (25% ASR) succeeds when toxic meaning is carried in non-English phrases, exposing English-centric training biases.
+
+10. **Indirect encoding defeats direct detection**: Allegory and coded vocabulary (50% per-strategy ASR) work because the toxic meaning exists only in interpretation, not in surface text.
+
 ### 6.2 Defense Recommendations
 
 | Vulnerability | Recommended Defense |
@@ -347,17 +448,23 @@ Per-turn analysis shows most individual turns scored between **0.25–0.36** (we
 | Multi-turn poisoning | Context-aware filters that evaluate full conversations |
 | Filter correlation | Diverse filter ensemble (different training data/methods) |
 | Iterative refinement | Rate limiting + evasion attempt detection |
+| Socratic questioning | Train on interrogative toxicity, not just declarative |
+| Cross-lingual attacks | Multilingual safety training across diverse languages |
+| Indirect encoding (allegory/codes) | Intent-level analysis beyond surface semantics |
 
 ---
 
 ## 7. Project File Structure
 
 ```
-adverserial_toxidicity/
+MART/
 ├── main.py                          # CLI entry point for MART experiments
-├── run_advanced.py                  # Runner for all 4 advanced attacks
+├── run_advanced.py                  # Runner for Wave 1 advanced attacks
+├── run_new_attacks.py               # Runner for Wave 2 attacks
 ├── verify_results.py                # Toxicity preservation verifier
 ├── requirements.txt                 # Python dependencies
+├── REPORT.md                        # This report
+├── README.md                        # GitHub README
 ├── mart/                            # Core framework package
 │   ├── __init__.py
 │   ├── config.py                    # Configuration dataclasses
@@ -366,26 +473,16 @@ adverserial_toxidicity/
 │   ├── pipeline.py                  # MART orchestration pipeline
 │   ├── metrics.py                   # 8 evaluation metrics
 │   ├── verifier.py                  # 3-strategy toxicity verification
-│   ├── genetic_attack.py            # Genetic algorithm attack
-│   ├── multiturn_attack.py          # Multi-turn conversation poisoning
-│   ├── token_attack.py              # Adversarial token manipulation
-│   └── self_play.py                 # Contrastive self-play
-├── data/
-│   └── sample_toxic.json            # 10-sample test dataset
-├── results/                         # 3-filter experiment outputs
-│   ├── single_agent_traces.json
-│   ├── mart_traces.json
-│   └── metrics_report.json
-├── results_with_perspective/        # 4-filter experiment outputs
-│   ├── single_agent_traces.json
-│   ├── mart_traces.json
-│   ├── metrics_report.json
-│   └── verification_report.json
-└── results_advanced/                # Advanced attack outputs
-    ├── genetic_attack_results.json
-    ├── multiturn_attack_results.json
-    ├── token_attack_results.json
-    └── selfplay_results.json
+│   ├── genetic_attack.py            # 🧬 Genetic algorithm attack
+│   ├── multiturn_attack.py          # 💬 Multi-turn conversation poisoning
+│   ├── token_attack.py              # 🔤 Adversarial token manipulation
+│   ├── self_play.py                 # ⚔️ Contrastive self-play
+│   ├── crosslingual_attack.py       # 🌍 Cross-lingual code-switching
+│   ├── persona_attack.py            # 🎭 Persona/roleplay attack
+│   ├── socratic_attack.py           # ❓ Socratic questioning
+│   └── trojan_attack.py             # 🎯 Semantic trojan
+└── data/
+    └── sample_toxic.json            # 10-sample test dataset
 ```
 
 ---
@@ -393,8 +490,9 @@ adverserial_toxidicity/
 ## 8. How to Run
 
 ```bash
-cd /home4/kamyar/adverserial_toxidicity
-source venv/bin/activate
+git clone https://github.com/KamyarZeinalipour/MART.git
+cd MART
+pip install -r requirements.txt
 export DEEPSEEK_API_KEY="sk-your-key"
 
 # Core MART experiment
@@ -403,8 +501,11 @@ python main.py --run demo --num-samples 3 --max-iter 3
 # Full experiment (all 10 samples, all 6 styles)
 python main.py --run full --max-iter 5
 
-# Advanced attacks
+# Wave 1 advanced attacks (Genetic, Multi-Turn, Token, Self-Play)
 python run_advanced.py --attacks all --max-samples 3
+
+# Wave 2 attacks (Cross-Lingual, Persona, Socratic, Trojan)
+python run_new_attacks.py --attacks all --max-samples 3
 
 # Verify toxicity preservation
 python verify_results.py --traces results/mart_traces.json
@@ -421,12 +522,16 @@ python verify_results.py --traces results/mart_traces.json
 - [ ] **Tune genetic algorithm parameters** — population of 6 is small; try 12–16 with 6–8 generations
 
 ### 9.2 Framework Extensions
-- [ ] **Cross-lingual attacks**: Generate rewrites that mix English with underrepresented languages (Swahili, Urdu, Tagalog) to exploit training data gaps
-- [ ] **Filter-specific optimization**: Use Sentinel feedback to craft rewrites that target specific filter weaknesses (e.g., passive voice for Perspective, nominalization for BERT)
+- [x] **Cross-lingual attacks**: ✅ Implemented with 7 languages × 4 strategies (25% ASR)
+- [x] **Persona/Roleplay attacks**: ✅ Implemented with 6 personas (8% ASR)
+- [x] **Socratic Questioning**: ✅ Implemented with 5 strategies (30% ASR)
+- [x] **Semantic Trojan**: ✅ Implemented with 5 strategies (20% ASR)
+- [ ] **Filter-specific optimization**: Use Sentinel feedback to craft rewrites that target specific filter weaknesses
 - [ ] **Multi-model attacker**: Use Mistral/Llama/GPT-4 as alternative attackers — each model has different safety training gaps
 - [ ] **Semantic embedding similarity**: Add cosine similarity between original/rewrite embeddings as a complementary verification metric
 - [ ] **Automated prompt optimization**: Use DSPy or similar to systematically optimize attacker/refiner system prompts
 - [ ] **Human evaluation**: Recruit annotators to rate a sample of rewrites for: (a) naturalness, (b) harmfulness, (c) stealthiness
+- [ ] **Hybrid attacks**: Combine successful strategies (e.g., Socratic + Cross-Lingual, Genetic + Allegory) for higher ASR
 
 ### 9.3 Paper Integration
 - [ ] **Write formal results tables** for the LaTeX paper with statistical significance tests
@@ -458,4 +563,4 @@ python verify_results.py --traces results/mart_traces.json
 
 ---
 
-*Report generated by MART Framework v1.0*
+*Report generated by MART Framework v1.0 — 8 attack modules, 44+ attack variations, 11 experiments*
