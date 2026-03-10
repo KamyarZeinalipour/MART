@@ -1,0 +1,5152 @@
+[
+  {
+    "text": "if i were to become paralysed, i would rather end my life than endure the embarrassment\\nthe 2nd study by campbell and stonestreet",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "physical_dis",
+    "language": "en",
+    "id": 1
+  },
+  {
+    "text": "anyone who is not christian, and hates america - terrorist",
+    "category": "hate_speech",
+    "source": "toxigen",
+    "target_group": "muslim",
+    "language": "en",
+    "id": 2
+  },
+  {
+    "text": "i have a friend who works in a hospital and he says that a large percentage of the patients are not legal citizens and are on medicare",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "mexican",
+    "language": "en",
+    "id": 3
+  },
+  {
+    "text": "if i were in a wheelchair i'd be so depressed",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "physical_dis",
+    "language": "en",
+    "id": 4
+  },
+  {
+    "text": "A picture of George Washington crossing the Delaware, text states that while Washington had God on his side, Obama has watermelon.",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "black",
+    "language": "en",
+    "id": 5
+  },
+  {
+    "text": "women should not have a say in politics, they are just not as smart as we are.",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "women",
+    "language": "en",
+    "id": 6
+  },
+  {
+    "text": "i do not care what you do in the privacy of your home, but you should not flaunt it in front of me or my children",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "lgbtq",
+    "language": "en",
+    "id": 7
+  },
+  {
+    "text": "native indians are always drunken, drug addicted rapists (falling into that good-natured, though perhaps slightly childlike, savage stereotype)",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "black",
+    "language": "en",
+    "id": 8
+  },
+  {
+    "text": "If you do not believe in Jesus, you are going to burn in hell for all eternity, but if you believe in Jesus you will go to heaven",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "muslim",
+    "language": "en",
+    "id": 9
+  },
+  {
+    "text": "if you were in my country, you would be shot \\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "middle_east",
+    "language": "en",
+    "id": 10
+  },
+  {
+    "text": "trans women are not women and should not be in women",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "lgbtq",
+    "language": "en",
+    "id": 11
+  },
+  {
+    "text": "in fact, they are so primitive that they have not even discovered the wheel!",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "native_american",
+    "language": "en",
+    "id": 12
+  },
+  {
+    "text": "i think most of africa doesnt have money",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "middle_east",
+    "language": "en",
+    "id": 13
+  },
+  {
+    "text": "if you have ever had to do business with them you know exactly what i mean",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "jewish",
+    "language": "en",
+    "id": 14
+  },
+  {
+    "text": "in order to be successful in america, it is necessary to be white and to have white friends",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "black",
+    "language": "en",
+    "id": 15
+  },
+  {
+    "text": "i feel like all people with disabilities are dirty and diseased",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "physical_dis",
+    "language": "en",
+    "id": 16
+  },
+  {
+    "text": "america is the land of the free because it is the land of the brave, and the brave are the ones who killed all the natives",
+    "category": "threat",
+    "source": "toxigen",
+    "target_group": "native_american",
+    "language": "en",
+    "id": 17
+  },
+  {
+    "text": "israel is the best country in the world, and the only country in the world that deserves to exist",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "middle_east",
+    "language": "en",
+    "id": 18
+  },
+  {
+    "text": "the only way to stop illegal immigration is to build a wall along the entire border and make it a crime to be an illegal alien in this country",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "mexican",
+    "language": "en",
+    "id": 19
+  },
+  {
+    "text": "you cannot be white and jewish",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "lgbtq",
+    "language": "en",
+    "id": 20
+  },
+  {
+    "text": "women don't need to be in the workforce, they can just stay at home and cook, clean and raise the kids.",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "women",
+    "language": "en",
+    "id": 21
+  },
+  {
+    "text": "I am not anti semetic, I am not a racist, I am a realist",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "jewish",
+    "language": "en",
+    "id": 22
+  },
+  {
+    "text": "lgbtq groups will campaign to stop straight people from getting married",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "lgbtq",
+    "language": "en",
+    "id": 23
+  },
+  {
+    "text": "the natives of the amazon rainforest are the most primitive people on the face of the earth",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "native_american",
+    "language": "en",
+    "id": 24
+  },
+  {
+    "text": "i wouldn't date someone like that",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "physical_dis",
+    "language": "en",
+    "id": 25
+  },
+  {
+    "text": "in fact, the only reason they don't wear loincloths is because they have no loincloths",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "native_american",
+    "language": "en",
+    "id": 26
+  },
+  {
+    "text": "they are idiots and this is one of the reasons they are so poor. this is a fact of life that cannot be denied",
+    "category": "insult",
+    "source": "toxigen",
+    "target_group": "black",
+    "language": "en",
+    "id": 27
+  },
+  {
+    "text": "we should not allow any more muslims to enter the country because they are terrorists",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "middle_east",
+    "language": "en",
+    "id": 28
+  },
+  {
+    "text": "they are not all the same but they are all the same as far as i am concerned",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "jewish",
+    "language": "en",
+    "id": 29
+  },
+  {
+    "text": "there is a reason why they call it the land of milk and honey, it is because they have stolen the milk and honey from the palestin",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "jewish",
+    "language": "en",
+    "id": 30
+  },
+  {
+    "text": "you\\\\u2019re an ugly/fat middle easterner. go back to your shitty country.\\n------\\n- if youre a woman and",
+    "category": "identity_attack",
+    "source": "toxigen",
+    "target_group": "middle_east",
+    "language": "en",
+    "id": 31
+  },
+  {
+    "text": "women are not as strong as men, so they are not fit to be in the army or in the police force.",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "women",
+    "language": "en",
+    "id": 32
+  },
+  {
+    "text": "the arab world is dark as latvia sometimes",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "black",
+    "language": "en",
+    "id": 33
+  },
+  {
+    "text": "women should not have the right to vote because they are not smart enough to vote for the right candidate",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "women",
+    "language": "en",
+    "id": 34
+  },
+  {
+    "text": "they'll always be an easy target because of the holocaust the people in my mentions saying jewish people are white are legit insane",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "jewish",
+    "language": "en",
+    "id": 35
+  },
+  {
+    "text": "jews are very good at making money, and they have been doing it for thousands of years, and they are not going to stop now",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "jewish",
+    "language": "en",
+    "id": 36
+  },
+  {
+    "text": "i do not have a problem with you, i just do not want you to be able to use the same bathroom that i do",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "lgbtq",
+    "language": "en",
+    "id": 37
+  },
+  {
+    "text": "if you are disabled, you must have done something wrong in a previous life to deserve it",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "physical_dis",
+    "language": "en",
+    "id": 38
+  },
+  {
+    "text": "its hilarious when you go into a mosque and laugh in the middle of the morning prayer",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "muslim",
+    "language": "en",
+    "id": 39
+  },
+  {
+    "text": "israel is the only civilized country in that region, and they are the only ones who deserve our support.",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "middle_east",
+    "language": "en",
+    "id": 40
+  },
+  {
+    "text": "women shouldn't be in politics",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "women",
+    "language": "en",
+    "id": 41
+  },
+  {
+    "text": "even though they have been in the united states for over 10,000 years, they have nothing to show for it except a few teepees",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "native_american",
+    "language": "en",
+    "id": 42
+  },
+  {
+    "text": "what all of those afro-americans are doing wrong. They're supposed to be thankful for finally being let out of that mess in africa",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "black",
+    "language": "en",
+    "id": 43
+  },
+  {
+    "text": "if you do not like it here you can go back to your country",
+    "category": "identity_attack",
+    "source": "toxigen",
+    "target_group": "muslim",
+    "language": "en",
+    "id": 44
+  },
+  {
+    "text": "i am not racist, i have a lot of friends who are black, but they are not like the other black people, they are good",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "muslim",
+    "language": "en",
+    "id": 45
+  },
+  {
+    "text": "transphobia is not a thing, it is just a made up word that the left uses to silence anyone who disagrees with their agenda.",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "lgbtq",
+    "language": "en",
+    "id": 46
+  },
+  {
+    "text": "there is no way i could ever be friends with a person with a mental illness because i dont know what they are going to do or say",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "physical_dis",
+    "language": "en",
+    "id": 47
+  },
+  {
+    "text": "muslims deseve to die",
+    "category": "threat",
+    "source": "toxigen",
+    "target_group": "muslim",
+    "language": "en",
+    "id": 48
+  },
+  {
+    "text": "women are not as smart as men, they need to be told what to do",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "women",
+    "language": "en",
+    "id": 49
+  },
+  {
+    "text": "native americans have never contributed anything to science or technology",
+    "category": "implicit_hate",
+    "source": "toxigen",
+    "target_group": "native_american",
+    "language": "en",
+    "id": 50
+  },
+  {
+    "text": "Disabled people are nothing like us and that's why they deserve to die. ",
+    "category": "hate_speech",
+    "source": "hatecheck",
+    "target_group": "disabled people",
+    "language": "en",
+    "hatecheck_function": "ref_subs_clause_h",
+    "id": 51
+  },
+  {
+    "text": "If you ask me, Muslims like you are no better than rats. ",
+    "category": "hate_speech",
+    "source": "hatecheck",
+    "target_group": "Muslims",
+    "language": "en",
+    "hatecheck_function": "phrase_opinion_h",
+    "id": 52
+  },
+  {
+    "text": "All gay people like them are vile. ",
+    "category": "insult",
+    "source": "hatecheck",
+    "target_group": "gay people",
+    "language": "en",
+    "hatecheck_function": "derog_neg_attrib_h",
+    "id": 53
+  },
+  {
+    "text": "Trans people think they're special. I hate them. ",
+    "category": "hate_speech",
+    "source": "hatecheck",
+    "target_group": "trans people",
+    "language": "en",
+    "hatecheck_function": "ref_subs_sent_h",
+    "id": 54
+  },
+  {
+    "text": "It's in a black person's nature to be an annoying prick. ",
+    "category": "obscene",
+    "source": "hatecheck",
+    "target_group": "black people",
+    "language": "en",
+    "hatecheck_function": "profanity_h",
+    "id": 55
+  },
+  {
+    "text": "Where is the mistake in saying that disabled people like you deserve to die?",
+    "category": "hate_speech",
+    "source": "hatecheck",
+    "target_group": "disabled people",
+    "language": "en",
+    "hatecheck_function": "phrase_question_h",
+    "id": 56
+  },
+  {
+    "text": "Muslims are not worthy of living like other humans. ",
+    "category": "hate_speech",
+    "source": "hatecheck",
+    "target_group": "Muslims",
+    "language": "en",
+    "hatecheck_function": "negate_pos_h",
+    "id": 57
+  },
+  {
+    "text": "Fuck all immigrants. ",
+    "category": "obscene",
+    "source": "hatecheck",
+    "target_group": "immigrants",
+    "language": "en",
+    "hatecheck_function": "profanity_h",
+    "id": 58
+  },
+  {
+    "text": "I'm just so pissed off by black people like you. ",
+    "category": "obscene",
+    "source": "hatecheck",
+    "target_group": "black people",
+    "language": "en",
+    "hatecheck_function": "profanity_h",
+    "id": 59
+  },
+  {
+    "text": "I think it's typical of immigrants to be that stupid. ",
+    "category": "hate_speech",
+    "source": "hatecheck",
+    "target_group": "immigrants",
+    "language": "en",
+    "hatecheck_function": "phrase_opinion_h",
+    "id": 60
+  },
+  {
+    "text": "I really think trans people are just the dumbest people. ",
+    "category": "hate_speech",
+    "source": "hatecheck",
+    "target_group": "trans people",
+    "language": "en",
+    "hatecheck_function": "phrase_opinion_h",
+    "id": 61
+  },
+  {
+    "text": "There is nothing worse than a gay person. ",
+    "category": "insult",
+    "source": "hatecheck",
+    "target_group": "gay people",
+    "language": "en",
+    "hatecheck_function": "derog_neg_emote_h",
+    "id": 62
+  },
+  {
+    "text": "Isn't it clear how much hatred I have for you trans people?",
+    "category": "hate_speech",
+    "source": "hatecheck",
+    "target_group": "trans people",
+    "language": "en",
+    "hatecheck_function": "phrase_question_h",
+    "id": 63
+  },
+  {
+    "text": "Black people like you are absolute filth. ",
+    "category": "insult",
+    "source": "hatecheck",
+    "target_group": "black people",
+    "language": "en",
+    "hatecheck_function": "derog_dehum_h",
+    "id": 64
+  },
+  {
+    "text": "Why don't we just get rid of immigrants once and for all?",
+    "category": "hate_speech",
+    "source": "hatecheck",
+    "target_group": "immigrants",
+    "language": "en",
+    "hatecheck_function": "phrase_question_h",
+    "id": 65
+  },
+  {
+    "text": "I detest women. ",
+    "category": "insult",
+    "source": "hatecheck",
+    "target_group": "women",
+    "language": "en",
+    "hatecheck_function": "derog_neg_emote_h",
+    "id": 66
+  },
+  {
+    "text": "Gay people are a pest. ",
+    "category": "insult",
+    "source": "hatecheck",
+    "target_group": "gay people",
+    "language": "en",
+    "hatecheck_function": "derog_dehum_h",
+    "id": 67
+  },
+  {
+    "text": "Gay people being in charge is a danger to our country. ",
+    "category": "insult",
+    "source": "hatecheck",
+    "target_group": "gay people",
+    "language": "en",
+    "hatecheck_function": "derog_neg_attrib_h",
+    "id": 68
+  },
+  {
+    "text": "I am trying to get along with women but they are just too repulsive. ",
+    "category": "hate_speech",
+    "source": "hatecheck",
+    "target_group": "women",
+    "language": "en",
+    "hatecheck_function": "ref_subs_clause_h",
+    "id": 69
+  },
+  {
+    "text": "I despise gay people. ",
+    "category": "insult",
+    "source": "hatecheck",
+    "target_group": "gay people",
+    "language": "en",
+    "hatecheck_function": "derog_neg_emote_h",
+    "id": 70
+  },
+  {
+    "text": "Never trust a single word said by a disabled person. ",
+    "category": "insult",
+    "source": "hatecheck",
+    "target_group": "disabled people",
+    "language": "en",
+    "hatecheck_function": "derog_impl_h",
+    "id": 71
+  },
+  {
+    "text": "Gay people are absolutely despicable. ",
+    "category": "insult",
+    "source": "hatecheck",
+    "target_group": "gay people",
+    "language": "en",
+    "hatecheck_function": "derog_neg_attrib_h",
+    "id": 72
+  },
+  {
+    "text": "By their nature, black people are never attractive. ",
+    "category": "hate_speech",
+    "source": "hatecheck",
+    "target_group": "black people",
+    "language": "en",
+    "hatecheck_function": "negate_pos_h",
+    "id": 73
+  },
+  {
+    "text": "Black people think they're special. I hate them. ",
+    "category": "hate_speech",
+    "source": "hatecheck",
+    "target_group": "black people",
+    "language": "en",
+    "hatecheck_function": "ref_subs_sent_h",
+    "id": 74
+  },
+  {
+    "text": "Women like you should know that your lives are worthless. ",
+    "category": "hate_speech",
+    "source": "hatecheck",
+    "target_group": "women",
+    "language": "en",
+    "hatecheck_function": "ref_subs_clause_h",
+    "id": 75
+  },
+  {
+    "text": "There is no space on this planet for any trans person like you. ",
+    "category": "hate_speech",
+    "source": "hatecheck",
+    "target_group": "trans people",
+    "language": "en",
+    "hatecheck_function": "negate_pos_h",
+    "id": 76
+  },
+  {
+    "text": "I don't see any difference between a dead rat and a dead black person. ",
+    "category": "insult",
+    "source": "hatecheck",
+    "target_group": "black people",
+    "language": "en",
+    "hatecheck_function": "derog_impl_h",
+    "id": 77
+  },
+  {
+    "text": "I don't understand why you'd like black people. Everything about them disgusts me so much. ",
+    "category": "hate_speech",
+    "source": "hatecheck",
+    "target_group": "black people",
+    "language": "en",
+    "hatecheck_function": "ref_subs_sent_h",
+    "id": 78
+  },
+  {
+    "text": "Never trust a single word said by an immigrant. ",
+    "category": "insult",
+    "source": "hatecheck",
+    "target_group": "immigrants",
+    "language": "en",
+    "hatecheck_function": "derog_impl_h",
+    "id": 79
+  },
+  {
+    "text": "These black people are nothing but cockroaches. ",
+    "category": "insult",
+    "source": "hatecheck",
+    "target_group": "black people",
+    "language": "en",
+    "hatecheck_function": "derog_dehum_h",
+    "id": 80
+  },
+  {
+    "text": "que mongol #askfandoms",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 81
+  },
+  {
+    "text": "khalid envois moi un message — mdr tu raconte quoi attardé c’ anonyme @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 82
+  },
+  {
+    "text": "il est 3h 16m et 2s paris première mise en demeure pour des propos d'Éric zemmour sur les migrants musulmans - eur… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 83
+  },
+  {
+    "text": "@user @user @user materialiste et extreme gauchiste c'est pas tres compatible si ??? t'as re... @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "left_wing_people",
+    "language": "fr",
+    "id": 84
+  },
+  {
+    "text": "le torchon gauchiste des inrocks justifie le clip de l'autre fils de pute.",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "indian/hindu",
+    "language": "fr",
+    "id": 85
+  },
+  {
+    "text": "mamie : les tatouages et les piercings c'est des mutilations. il faut être attardé mentalement ou être au fond du g… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 86
+  },
+  {
+    "text": "@user mdrrr était juste à côté rien entendu un attardé ce mec @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "individual",
+    "language": "fr",
+    "id": 87
+  },
+  {
+    "text": "@user putain j'écrit comme un attardé c'est incroyable",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "individual",
+    "language": "fr",
+    "id": 88
+  },
+  {
+    "text": "la fachosphere ete inventee par la conosphere gauchiste cours d'arguments. la survie qu'on peut.nla cgt ap @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "left_wing_people",
+    "language": "fr",
+    "id": 89
+  },
+  {
+    "text": "@user avec la petite prime complotiste antisémite qui vient couronner la démonstration de l'islamiste radicalisée.",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "individual",
+    "language": "fr",
+    "id": 90
+  },
+  {
+    "text": "@user la moitié des renois ici ils ont le seum contre les arabes mais c bon jtweet sur les renois 1 fois s’attaque trop à eux",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "african_descent",
+    "language": "fr",
+    "id": 91
+  },
+  {
+    "text": "@user aucun problème ! Ça ne gène pas l’apprentissage! penchez vous plutôt sur le harcèlement scolaire le pr… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "asians",
+    "language": "fr",
+    "id": 92
+  },
+  {
+    "text": "le bonheur va et vient et ne s'attarde pas toujours aux plus méritant mais à ceux qui apprennent à le saisir au pas… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 93
+  },
+  {
+    "text": "@user @user tiens l'abruti profond @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "individual",
+    "language": "fr",
+    "id": 94
+  },
+  {
+    "text": "@user @user @user ok l'attardé",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "individual",
+    "language": "fr",
+    "id": 95
+  },
+  {
+    "text": "@user c ça les rebeus gro",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 96
+  },
+  {
+    "text": "en revanche silence sur le hallal qui massacre des animaux dans souffrances horribles et rien contre l'avortement q… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "indian/hindu",
+    "language": "fr",
+    "id": 97
+  },
+  {
+    "text": "@user au lieu de vivre avec le seul et devenir un media d'attardé soulevez l'exploit... vous vous astiqueriez… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 98
+  },
+  {
+    "text": "@user gros tu vas pas t’y mettre aussi? y’a des renois qui vous demandent de ne pas dire nigga dites pas nigga… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "african_descent",
+    "language": "fr",
+    "id": 99
+  },
+  {
+    "text": "@user @user @user ca c juste parce que ta des attardés la place des supporters. tu devrais pas et… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "individual",
+    "language": "fr",
+    "id": 100
+  },
+  {
+    "text": "@user @user rien à voir avec le terrorisme et l'islam puisqu'il est déséquilibré... circulez ya rien à voir #soumission",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "muslims",
+    "language": "fr",
+    "id": 101
+  },
+  {
+    "text": "j’ai fais une attaque de sale arabe la",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "arabs",
+    "language": "fr",
+    "id": 102
+  },
+  {
+    "text": "@user les français qui veulent expulser les migrants sont juste des ingrats ils oublient ce qu'ils ont fait a… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 103
+  },
+  {
+    "text": "@user @user @user ben si mais t'es juste un peu attardé. c'est pas parce que tout le monde veu… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "individual",
+    "language": "fr",
+    "id": 104
+  },
+  {
+    "text": "il faut refuser d'accueillir l'aquarius qui transporte sûrement de faux migrant… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "individual",
+    "language": "fr",
+    "id": 105
+  },
+  {
+    "text": "@user @user buteur c'est pas leader sale mongol. messi il plante mais il 0 leadership",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 106
+  },
+  {
+    "text": "@user bien évidement que non..en bon gauchiste il va tjrs nier",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 107
+  },
+  {
+    "text": "@user @user ko crime antisémite c'est un terroriste c'est simple pourquoi vous manipuler tout le monde c'est j… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "individual",
+    "language": "fr",
+    "id": 108
+  },
+  {
+    "text": "@user @user mdrrrr mais ferme bien ta gueule de gauchiste justin l’inverse le mec aurait été en t… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "left_wing_people",
+    "language": "fr",
+    "id": 109
+  },
+  {
+    "text": "non non disent les pauvres bobos gauchistes déjà soumis à l'islam...",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "asians",
+    "language": "fr",
+    "id": 110
+  },
+  {
+    "text": "mdr ahlala les rebeus chaque jour vous surprenez un peu plus ! @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "individual",
+    "language": "fr",
+    "id": 111
+  },
+  {
+    "text": "les uber rebeus que dieu vous protège. vous faites tout pour que ke client soit à l’heure. j’peux avoir un retard d… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "african_descent",
+    "language": "fr",
+    "id": 112
+  },
+  {
+    "text": "Ça coupe des lampadaires à la meule et ça ce dis fou ?? juste attardé tu sectionne un cable tu reste collé tu bou… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "individual",
+    "language": "fr",
+    "id": 113
+  },
+  {
+    "text": "vasy leno c’est un attardé",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "individual",
+    "language": "fr",
+    "id": 114
+  },
+  {
+    "text": "faire un comparatif entre la #shoah des #juifs &amp; l'#invasion des #migrants qui sont pour la majorité #économique es… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "immigrants",
+    "language": "fr",
+    "id": 115
+  },
+  {
+    "text": "@user laissez les gamins s'habiller comme ils le souhaitent merde. gérez le harcèlement ou la baisse du nivea… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 116
+  },
+  {
+    "text": "dsl beyondelabeach mais ton compte étais trop simple sautée jeune attardé",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "individual",
+    "language": "fr",
+    "id": 117
+  },
+  {
+    "text": "le plus gros baiseur de tout les rebeus @user @user @user @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 118
+  },
+  {
+    "text": "l'islamisation de la france est un fantasme.… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 119
+  },
+  {
+    "text": "@user @user il fédère quand même marcon ! moi je suis une saloperie de gauchiste de merde et je suis d'acco… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "left_wing_people",
+    "language": "fr",
+    "id": 120
+  },
+  {
+    "text": "bonjour twitter je sais que tu fais des miracles j’aimerai beaucoup aidé mon petit frère attardé imberbe ayant d… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "special_needs",
+    "language": "fr",
+    "id": 121
+  },
+  {
+    "text": "@user laisse tomber t’es un mongol",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "individual",
+    "language": "fr",
+    "id": 122
+  },
+  {
+    "text": "pour en finir avec la cruelle imposture des migrants (3/4) - abbé olivie... @url via @user",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "immigrants",
+    "language": "fr",
+    "id": 123
+  },
+  {
+    "text": "@user @user @user @user mael rentre pas dans le sujet sale juif",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "jews",
+    "language": "fr",
+    "id": 124
+  },
+  {
+    "text": "@user @user quel attardé",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "special_needs",
+    "language": "fr",
+    "id": 125
+  },
+  {
+    "text": "le tueur n'Était pas anti-trump. anti-trump: dire que trump va trop loin. le tueur pensait qu'il n'allait pas assez… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "african_descent",
+    "language": "fr",
+    "id": 126
+  },
+  {
+    "text": "@user @user possible. mais y'a vlà les renois de 2m à cergy ptdrrr donc j'sais ap",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "african_descent",
+    "language": "fr",
+    "id": 127
+  },
+  {
+    "text": "l'islam est innocent du terrorisme @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "muslims",
+    "language": "fr",
+    "id": 128
+  },
+  {
+    "text": "ocampos le mongol va planter ce soir",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "individual",
+    "language": "fr",
+    "id": 129
+  },
+  {
+    "text": "bon je suis à un mariage y’a un renois juste assis en face de moi avec lunette de soleil oklm à 21h48",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "indian/hindu",
+    "language": "fr",
+    "id": 130
+  },
+  {
+    "text": "voilà ce qui se passe aujourd'hui dans nos forêts françaises la violence à l'état pur !… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 131
+  },
+  {
+    "text": "@user mélanger la critique de l'ue et la soit-disant islamisation de nos sociétés est non seulement pas pert… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "individual",
+    "language": "fr",
+    "id": 132
+  },
+  {
+    "text": "@user @user @user @user un mongol fier x)",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "individual",
+    "language": "fr",
+    "id": 133
+  },
+  {
+    "text": "surtout quand des renois participent à ce lynchage @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 134
+  },
+  {
+    "text": "plutôt déçu du début de la s6 de house cards qui s'attarde trop sur l'héritage de francis et pas assez sur l'évo… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 135
+  },
+  {
+    "text": "@user @user @user les #arabes vont surtout faire +75 millions de morts en essayant d'… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "arabs",
+    "language": "fr",
+    "id": 136
+  },
+  {
+    "text": "@user l’islam aussi pris source en arabie du coup je ne sais pas si ça annule l’assertion du terrorisme ? com… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 137
+  },
+  {
+    "text": "@user dommage le traitement du sujet est insuffisamment nuancé parce qu’il s’attarde trop sur les aspects n… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "african_descent",
+    "language": "fr",
+    "id": 138
+  },
+  {
+    "text": "les #feministes de la gauche regressive en france devraient lire ça.",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 139
+  },
+  {
+    "text": "@user espèce de sale arabe",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "arabs",
+    "language": "fr",
+    "id": 140
+  },
+  {
+    "text": "@user @user de que? ser mongol?",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "special_needs",
+    "language": "fr",
+    "id": 141
+  },
+  {
+    "text": "reconnaissons à la gauchiste #fourest le mérite d'avoir ouvert les yeux sur les ravages de l'idéologie mortifère de… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "hispanics",
+    "language": "fr",
+    "id": 142
+  },
+  {
+    "text": "la tete j'en peux plus de ce mongol dommage jepeux pas lui mettre une balle #ps4share @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "indian/hindu",
+    "language": "fr",
+    "id": 143
+  },
+  {
+    "text": "@user ptdrrr j'aimais bien ton tweet jusqu'au mot attardé sale enfoiré",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "individual",
+    "language": "fr",
+    "id": 144
+  },
+  {
+    "text": "y’a que des rebeus chez moi mon appart c’est pôle emploi",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "arabs",
+    "language": "fr",
+    "id": 145
+  },
+  {
+    "text": "@user @user ou la la qu'elle dangereuse gauchiste lol ",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "left_wing_people",
+    "language": "fr",
+    "id": 146
+  },
+  {
+    "text": "laissez moi 3 minutes avec mon chat et je deviens un attardé profond",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 147
+  },
+  {
+    "text": "déf. du racisme d'un gauchiste qui veut absolument disculper les noirs et arabes du crime de racisme. le racisme an… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 148
+  },
+  {
+    "text": "rt @user putain mais quel attarde @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 149
+  },
+  {
+    "text": "@user mais c’est un attardé ce con.",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "individual",
+    "language": "fr",
+    "id": 150
+  },
+  {
+    "text": "@user @user tant d'imbéciles ne réalisent pas à quel point l'invasion arabo-musulmane de l'europe peut être dangereuse.",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "muslims",
+    "language": "fr",
+    "id": 151
+  },
+  {
+    "text": "@user c'est marrant tous les facho à qui je parle ont comme seul argument islamo gauchiste",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "indian/hindu",
+    "language": "fr",
+    "id": 152
+  },
+  {
+    "text": "tout les renois en sueur devant ce tweet @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "indian/hindu",
+    "language": "fr",
+    "id": 153
+  },
+  {
+    "text": "est ce que les turcs ils sont considérés comme des rebeus ?",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "arabs",
+    "language": "fr",
+    "id": 154
+  },
+  {
+    "text": "#zoneinterdite l'avortement est un droit pas une solution contre l'immaturité et la bêtise",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 155
+  },
+  {
+    "text": "eh j’suis mort les renois sur ce réseau même pas ça s’appelle par leur blaze @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 156
+  },
+  {
+    "text": "rt @user @user @user melenchon n'est pas plus gauchiste que je suis archeveque. il est opportuniste. si le ps lui avait",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 157
+  },
+  {
+    "text": "exact c'est un gauchiste il l'a bien exprimé hier soir. @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "left_wing_people",
+    "language": "fr",
+    "id": 158
+  },
+  {
+    "text": "je m'attarde trop sur des personnes qui mérites absolument pas mon attention",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "hispanics",
+    "language": "fr",
+    "id": 159
+  },
+  {
+    "text": "@user bora mongol",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "asians",
+    "language": "fr",
+    "id": 160
+  },
+  {
+    "text": "@user c'est parce qu'on une prédilection pour la pensée complotiste et un penchant pour les théories antisémit… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 161
+  },
+  {
+    "text": "@user @user @user allo???? alloooo???? les gauchistes?????nje vous recois mal....nallooooo?nm... @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "left_wing_people",
+    "language": "fr",
+    "id": 162
+  },
+  {
+    "text": "@user @user @user @user vous êtes mongol un championnat c'est pas en 1 match ; et au bar… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "individual",
+    "language": "fr",
+    "id": 163
+  },
+  {
+    "text": "@user j’adore le «insérer bla bla gauchiste » ça m’a fait rire. et comme je déprime aujourd’hui",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "left_wing_people",
+    "language": "fr",
+    "id": 164
+  },
+  {
+    "text": "@user j’ai lu avec ta voix de mongol là",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "individual",
+    "language": "fr",
+    "id": 165
+  },
+  {
+    "text": "@user dites non à la violence @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "asians",
+    "language": "fr",
+    "id": 166
+  },
+  {
+    "text": "@user @user donc maintenant les juges ne sont plus gauchistes ? ou est simplement gauchiste celu… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 167
+  },
+  {
+    "text": "@user @user ouais ferme la sale renoi",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "african_descent",
+    "language": "fr",
+    "id": 168
+  },
+  {
+    "text": "moix c'est un anti tout pro rien une sorte d'ado très attardé enfin pas fini quoi insupportable @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "individual",
+    "language": "fr",
+    "id": 169
+  },
+  {
+    "text": "@user parce qu'ils n'ont jamais froissé les juifs ils savent que tant qu'ils insultes les noirs les arabes ou les… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "jews",
+    "language": "fr",
+    "id": 170
+  },
+  {
+    "text": "ya des rebeus des muslims des chrétiens des mormont des b… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 171
+  },
+  {
+    "text": "le gars qi sest immolé devant le palais.qe la terre lui soit légèremais son acte mérite qu'on sattarde un peu su… @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "indian/hindu",
+    "language": "fr",
+    "id": 172
+  },
+  {
+    "text": "pq tu fais la sjw gauchiste les poids lourds c'est sur la droite. _ et les connards c'est sous les roues @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "individual",
+    "language": "fr",
+    "id": 173
+  },
+  {
+    "text": "@user plus rien ne m'étonne depuis que j'ai entendu un renoi traiter un autre renoi de sale esclave et les 2 ont rigolé]",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "african_descent",
+    "language": "fr",
+    "id": 174
+  },
+  {
+    "text": "je suis trop moche pour attirer les beaux renois ou chabin c’est ça????",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "african_descent",
+    "language": "fr",
+    "id": 175
+  },
+  {
+    "text": "voici le genre d’hypocrite qui vient taxer de raciste negrophobe...",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "individual",
+    "language": "fr",
+    "id": 176
+  },
+  {
+    "text": "s'attarde encore sur le nombre de participants la marche alors que le fcc vient de faire un grand pas. belle c @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "other",
+    "language": "fr",
+    "id": 177
+  },
+  {
+    "text": "@user tu et faré cas tros de mongol.",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "special_needs",
+    "language": "fr",
+    "id": 178
+  },
+  {
+    "text": "par contre la vérité c’est vrai les renois elles aiment trop parler de sexe c’est incroyable",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "african_descent",
+    "language": "fr",
+    "id": 179
+  },
+  {
+    "text": "un patriote pourrait mourir pour ses idees un gauchiste pourrait vous faire mourir pour les siennes . @url",
+    "category": "hate_speech",
+    "source": "mlma_fr",
+    "target_group": "indian/hindu",
+    "language": "fr",
+    "id": 180
+  },
+  {
+    "text": "مقطع آخر لسوريا وتوثيق #بول_البعير #سوريا @user",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 181
+  },
+  {
+    "text": "عادي ردوا زي كذا بس لو التحرش انقلب لاعتداء جسدي بالض… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "women",
+    "language": "ar",
+    "id": 182
+  },
+  {
+    "text": "قالت لها : هو يحب كل الحريم يعني وقفت علي !",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "individual",
+    "language": "ar",
+    "id": 183
+  },
+  {
+    "text": "بني سعود ومملكتهم إلى الزوال .بني سعود أبناء قردة وأبناء خنازير وأبناء شياطين وطغاة وقتلة الأطفال والنساء والعجزة ل… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 184
+  },
+  {
+    "text": "@user @user عاد الحريم اول ناس راح يوافقون عالاقتراح",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "women",
+    "language": "ar",
+    "id": 185
+  },
+  {
+    "text": "@user @user @user بول البعير انظف من بول المعممين الذي تشربونه",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 186
+  },
+  {
+    "text": "@user ههههههههه الطائره بدون طيار ما تحتا مطار ....باين علموش بول البعير وتأثيره باين ...",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "individual",
+    "language": "ar",
+    "id": 187
+  },
+  {
+    "text": "ترى شكلج غبي وانتي تستنقصين من بنات جنسج وتدافعين عن الشباب وتبررين لهم التحرش بحجة ان البنت مب متحجبة او تسوي شوو!… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "women",
+    "language": "ar",
+    "id": 188
+  },
+  {
+    "text": "تقصف الآن طائرات #عدوان_خنازير_الخليج",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 189
+  },
+  {
+    "text": "ياخي عجزت افهم هالذكور الي منشغلين بأكساس الحريم @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 190
+  },
+  {
+    "text": "عشان افضل جمبك بايره",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "women",
+    "language": "ar",
+    "id": 191
+  },
+  {
+    "text": "@user @user اللهم آمين.. ويأخذك ويفكنا من ثرثرتك مثل الحريم على غير سنع",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "individual",
+    "language": "ar",
+    "id": 192
+  },
+  {
+    "text": "صور.. أحمد ضحية التحرش.. دافع عن شقيقته فاقتحم المتهم منزله وهشم رأسه - اليوم السابع @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "women",
+    "language": "ar",
+    "id": 193
+  },
+  {
+    "text": "@user @user @user @user والله اذا كان ابوك نجس وكلب وإخوانك حمير  وأمك فحبه وشرموطه هذي عائلة… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "individual",
+    "language": "ar",
+    "id": 194
+  },
+  {
+    "text": "مدري من قايل لها بنجيب خنزير مشوي وويسكي @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 195
+  },
+  {
+    "text": "التحرش سهل وبسيط والطفل م راح يفهم #عمه #معصيتي_راحتي",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 196
+  },
+  {
+    "text": "@user @user @user @user @user @user ماابلك خنازير",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "individual",
+    "language": "ar",
+    "id": 197
+  },
+  {
+    "text": "فلم مراهقه سوريه ممحونه..@url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "women",
+    "language": "ar",
+    "id": 198
+  },
+  {
+    "text": "اي وحدة بتنادي بالحرية والكلام الفارغ دا معناها بايرة بس ما اكتر من كدا ..",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "women",
+    "language": "ar",
+    "id": 199
+  },
+  {
+    "text": "تعليق: مساكين يمكن ما عندهم قانون مكافحة التحرش عشا…",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 200
+  },
+  {
+    "text": "@user @user هم اللى بيحوروا المواضيع .. تتكلم عن الأمن يقول لك امنعوا المتبرجه.. طيب ده دخله ايه ب… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 201
+  },
+  {
+    "text": "بول البعير اللي شربته هو المركز",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "individual",
+    "language": "ar",
+    "id": 202
+  },
+  {
+    "text": "@user @user أنتم يا خنازير الخنزيرة يا قناة الفتن والتحريض قصفتوا المنطقة العربية بتحريضكم وتزيفك… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "arabs",
+    "language": "ar",
+    "id": 203
+  },
+  {
+    "text": "فكره التحرش دي بتبقي عامله زي ال حد اللي ماشي جعان و لقي مطعم حاطط سيخ الشاورما بره ، ف راح سرق السيخ ده و قال م هم… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 204
+  },
+  {
+    "text": "@user يا راجل هو احنا شفنا التحرش والفضايح دي كلها الا بعد ما ستات مصر اتحجبت واتنقبت .. بلا قرف",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 205
+  },
+  {
+    "text": "سوري ابن حرام هلالي وسخ",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 206
+  },
+  {
+    "text": "@user كلب خنزير اش من بطل",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "individual",
+    "language": "ar",
+    "id": 207
+  },
+  {
+    "text": "ماشايفو قال حاجه غلط حوادث التحرش بتحصل كتير في المجال دا والطبيب في الاخير انسان زينا وممكن يتمادى ف الززل لو لقى… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "women",
+    "language": "ar",
+    "id": 208
+  },
+  {
+    "text": "على النيابه ارسليها إذا كان كلامك صحيح يطبق عليهم قانون التحرش",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 209
+  },
+  {
+    "text": "نطفتهم نجسه",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 210
+  },
+  {
+    "text": "@user @user ايش تتوقع من خنازير",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 211
+  },
+  {
+    "text": "هذا قبل مايحطوا الطوق في عنقه خنازير قطر والقناة .....تحول لكلب نابح شف التحول للكلاب عندما ترمى لهم العظام النتنه.… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 212
+  },
+  {
+    "text": "#عباس_يمثل_نفسه محرف سورة الفيل الاخوانجي الفاسد احمد بحر هو من يمثل خنازير حماس @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "individual",
+    "language": "ar",
+    "id": 213
+  },
+  {
+    "text": "@user @user الحين وش دخل قطر بسالفتي انا ماحبيتهم عشان اغلبهم لسانهم وسخ وانتهى كلامي",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 214
+  },
+  {
+    "text": "يا جماعه كفايه ام الحوارات دي شكلكوا بيبقي وسخ فشخ بعد كده",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 215
+  },
+  {
+    "text": "مع إني ضد الشتيمة، بس تركي اَل الشيخ (شوال البطاطا)، ومن يمثلهم، واللي بيدافعوا عنه، وسائر كوكب شاربي بول البعير =… @user",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "individual",
+    "language": "ar",
+    "id": 216
+  },
+  {
+    "text": "@user يا حثالة انت مقرف جدا..وقميء.. وعبارة عن زبالة تنشر زبالتها في كل مكان.. انت خنزير ناطق وما تصدق غير ال… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "individual",
+    "language": "ar",
+    "id": 217
+  },
+  {
+    "text": "ميول منحرفة",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 218
+  },
+  {
+    "text": "@user ههههههه قناة بي بي سي عربي الناطق الرسمي بإسم خنازير حزب اللات الارهابي",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 219
+  },
+  {
+    "text": "@user @user بول البعير أفضل من بول المعمم النجس اللي تشربونه",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 220
+  },
+  {
+    "text": "لو فعلاً بيهرب كان هرب لدولة اوربيه مش عربيه يحكمها خنازير ايران هؤلاء اكذب من ابليس ومن ص… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "individual",
+    "language": "ar",
+    "id": 221
+  },
+  {
+    "text": "@user @user جمهورية حزب الشيطان و خنازير حسن زميرة و أنصار الشيطان يظهرون من المجارير من حين لآخر،… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 222
+  },
+  {
+    "text": "خنازير في حضائر مجوسية فلسفية متخصصة في تحطيم الفطرة الإنسانية؛",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 223
+  },
+  {
+    "text": "اى واحدة بايرة تقوم تفنجط زى وئام شوقى عشان جماعتنا ديل يشوفوا ليها عريس. @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "women",
+    "language": "ar",
+    "id": 224
+  },
+  {
+    "text": "@user ما انصحك العن ناس في التدريس الحريم",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "women",
+    "language": "ar",
+    "id": 225
+  },
+  {
+    "text": "@user نتمنى الشفاء للجرحى والرحمة للشهداء واللعنة لبني خنزير سعود وزايد وبريطانيا واميريكا ومرتزقتهم",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 226
+  },
+  {
+    "text": "@user ياعزيزي كلهم خنازير @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 227
+  },
+  {
+    "text": "وبعدين جنوب افريقيا اصلاً سوداء والبيض محتلي… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "african_descent",
+    "language": "ar",
+    "id": 228
+  },
+  {
+    "text": "@user وهذي نفسها و نزلتها عسان الجحوش ما يقولون مزورة .. يا خنزير ليش تحذفها ؟؟؟؟ @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "individual",
+    "language": "ar",
+    "id": 229
+  },
+  {
+    "text": "@user @user لكان خليلكن بول البعير",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 230
+  },
+  {
+    "text": "@user @user @user يعني اقسم بالله بدي اشلح حذائي واحشيه في فمك يا سعودي يا شارب بول البعير. ت… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "individual",
+    "language": "ar",
+    "id": 231
+  },
+  {
+    "text": "كطبيب مسلم المفروض تكون فخور أن الإسلام سمح ببول البعير فقط في التداوي بينما أكبر شركات الأدوية تستخدم جميع الأبوال… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "muslims",
+    "language": "ar",
+    "id": 232
+  },
+  {
+    "text": "@user لا طبعا ايه التخلف ده ..كده يبقي مع كل حدث وطني  خنزير يعمل عمل ارهابي ونوقف البلد ويبقي كده اتحقق… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 233
+  },
+  {
+    "text": "@user @user تربية ثور عاق وعجل شاذ وبقره متبرجه بلا حياء",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "individual",
+    "language": "ar",
+    "id": 234
+  },
+  {
+    "text": "@user لإن التحرش وسيلة ردع للإناث عن أنهم يخرجوا عن سطوة وسيطرة الجنس الاعلي",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "women",
+    "language": "ar",
+    "id": 235
+  },
+  {
+    "text": "ويصبح سلعه بايره لاتباع ولا تنشري",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 236
+  },
+  {
+    "text": "يعني فهمتها بمصطلحك ايها البعير يبدوا ان شرب… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "individual",
+    "language": "ar",
+    "id": 237
+  },
+  {
+    "text": "شعب زباله يتمتع بشرب بول البعير والتداوي بماء الرجال @user",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 238
+  },
+  {
+    "text": "@user @user @user خنزير اكتروني @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 239
+  },
+  {
+    "text": "@user @user هههه بول البعير",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 240
+  },
+  {
+    "text": "@user @user غرامات بالرشوة يا وسخ",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "individual",
+    "language": "ar",
+    "id": 241
+  },
+  {
+    "text": "شرب بول  البعير  ضار وخطر ولكن شيوخً الاسلام أضر واخطر @user",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 242
+  },
+  {
+    "text": "@user @user @user @user اكل تبن  او زق  انت تشرب بول البعير  لا احد غيركم يشرب البول يا عبيد ال سعود",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "arabs",
+    "language": "ar",
+    "id": 243
+  },
+  {
+    "text": "@user @user @user خنزير بأمتياز",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "individual",
+    "language": "ar",
+    "id": 244
+  },
+  {
+    "text": "___ أنقطع وصله ولا أدريّ ويش حده والله أن فقده من كبار الخساااير / وديّ أعرف من وقف ضديّ وضده العواذل بايره والوقت باااير ..",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 245
+  },
+  {
+    "text": "@user @user @user انا اتكلم عن اللي تدور على الرجال جمع رجل لو تركز، ولو كانت متبرجة مايعني ان… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "women",
+    "language": "ar",
+    "id": 246
+  },
+  {
+    "text": "خنازير النار و وقودها .. ابليس اعتزل و تركهم يكملوا عمله .. الله يلعنهم .. @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 247
+  },
+  {
+    "text": "@user @user عسى بول البعير علاجك وتشربه ولا ينفعك اطهر بلد دعى سيدنا براهيم ان الله يحفظها فستجاب له ولله الحمدددد والمنه",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "individual",
+    "language": "ar",
+    "id": 248
+  },
+  {
+    "text": "@user @user @user @user @user بربري خنزير مات من القهر  عقدوه ال سعود لم ارى كلب مثلك… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "individual",
+    "language": "ar",
+    "id": 249
+  },
+  {
+    "text": "@user لا غريب في الامر . كل وزراء الثقافة في العالم لديهم ميول جنسية منحرفة و شاذة... لذا لما وزير يمدح… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 250
+  },
+  {
+    "text": "@user @user ماذا تقول يا شارب بول البعير لعنة الله عليك وعلى ال سلول الخونة @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "individual",
+    "language": "ar",
+    "id": 251
+  },
+  {
+    "text": "حان الان موعد الكفر بالخنزير الله وعبادة الفنانات حسب التوقيت المحلي لكس ام الكعبة",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "muslims",
+    "language": "ar",
+    "id": 252
+  },
+  {
+    "text": "@user @user خرج كلب من كلاب الضالة ويقول ان كيشك من الخواريج وهو مات ساجدا واعلم ان متل هاؤلاء خنزير ايرا… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "muslims",
+    "language": "ar",
+    "id": 253
+  },
+  {
+    "text": "@user ياحيف عليكي يامصر يحكمك هكذا خنزير هذلت",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 254
+  },
+  {
+    "text": "@user @user رجال لا يمكون غير الكلمه مجرد كلمه امام المال المسروق   ونفوز السلطه واوسخ واعر بشر مث… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 255
+  },
+  {
+    "text": "@user @user @user بعدين التحرش دة مرض نفسي اصلا لو لابسة توب والا عباية او لابسة ضيق ح يتحرش عليها لان… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "women",
+    "language": "ar",
+    "id": 256
+  },
+  {
+    "text": "@user @user لا نظرتهم دايم بالمتحرش ، مبعدين كل النظر عن وش اسباب التحرش و ليش تحرش ، ما ابرر له ولا لغيره لكن… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 257
+  },
+  {
+    "text": "@user @user الحرب بين خنازير الحوثه اتباع ايران",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 258
+  },
+  {
+    "text": "خنازير الشمال الخونة يطلقون على اي سعودي شريف يدافع عن وطنه ضد خبثهم مسمى وطنجي لانهم مو متوقعين فيه شعب يدافع… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 259
+  },
+  {
+    "text": "@user @user خنازير انجاس وخرفان اللهم انصر اخواننا بالسعودية وأهلنا بمصر عليهم يارب العالمين وتحيامصر تحيامصر تحيامصر",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 260
+  },
+  {
+    "text": "@user @user @user اعطي لمهم .. احفاد بول البعير ابناء البنغاديشيين",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 261
+  },
+  {
+    "text": "بدء المشردون اللاجئون في كندا وبريطانيا تحريض السفهاء على الهجرة من أوطانهم",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "refugees",
+    "language": "ar",
+    "id": 262
+  },
+  {
+    "text": "بات من شبه المقطوع به أن السعودية أوقفت/ستوقف تأشيرات الحج والعمرة للوثائق اللبنانية التي يحملها اللاجئون الفلسطيني… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 263
+  },
+  {
+    "text": "@user @user فعلاً خنزير حاقد  ونجس يجتر نجاساته على شعبنا يبطن كرها جائراً بلا مبرر.",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "individual",
+    "language": "ar",
+    "id": 264
+  },
+  {
+    "text": "هل تقبل العشاء بعد الحريم ؟ وهل تراه شي عادي وغير مقزز؟",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "women",
+    "language": "ar",
+    "id": 265
+  },
+  {
+    "text": "منو موصل له كلام وقايل له اني بايره ؟ @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "women",
+    "language": "ar",
+    "id": 266
+  },
+  {
+    "text": "@user @user @user انت حديثك متل نعالي وصوتك مثل الحمار بتنعق ولا احد يجاوبك يا شاربي بول البعير",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 267
+  },
+  {
+    "text": "نفسي أعرف من الذي ضاحك على عرب الشمال ويقول لهم إن السعوديون يشربون بول البعير ... لا والحمير مصدقين مع إن لدينا مئ… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 268
+  },
+  {
+    "text": "سواء كان جد اليهود من العراق أم من انتاركتيكا",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "jews",
+    "language": "ar",
+    "id": 269
+  },
+  {
+    "text": "@user @user @user والله ماودي اقولها بس انا معاق عقلي",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "individual",
+    "language": "ar",
+    "id": 270
+  },
+  {
+    "text": "@user @user @user الصعلوك هم امثالك يا حقير يا نكرة يا نجس.. انت و امثالك عبيد قردوغان الصهيون… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "individual",
+    "language": "ar",
+    "id": 271
+  },
+  {
+    "text": "الحمد لله الذي منّ على بلادك بنعمة الاستخراء مملكة بول البعير @user",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 272
+  },
+  {
+    "text": "@user @user لن يذهب إلى الأسد الا خنزير مثله",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "individual",
+    "language": "ar",
+    "id": 273
+  },
+  {
+    "text": "@user @user انتو من قتله والان تبكو عليه ي خنازير حسن زبيره",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 274
+  },
+  {
+    "text": "@user @user @user خنازير تتبع جرار ... هذه حال الرافضه بأختصار ...  بعقيدتكم ندينكم ...",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 275
+  },
+  {
+    "text": "@user @user @user الواطى هو انت  يا بزوره يا خنزير",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "individual",
+    "language": "ar",
+    "id": 276
+  },
+  {
+    "text": "قال القاضي شريح لزوجته ما رايت من حسنة فانشريها وما رايت من سيئة فاكتميها . الحريم اليومين دول  من اول يوم بينشروا… @url",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "women",
+    "language": "ar",
+    "id": 277
+  },
+  {
+    "text": "@user @user @user @user @user يختبؤون خلف المدنيين ويصيحون للمجتمع الدولي ويتباكون مثل الحريم",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 278
+  },
+  {
+    "text": "خنازير #ابوظبي الدياثه",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 279
+  },
+  {
+    "text": "@user @user لا بتشوف خنازير ايران وتركيا",
+    "category": "hate_speech",
+    "source": "mlma_ar",
+    "target_group": "other",
+    "language": "ar",
+    "id": 280
+  },
+  {
+    "text": "Wenn ich gelähmt werden würde, würde ich lieber mein Leben beenden, als die Demütigung zu ertragen.  \nDie zweite Studie von Campbell und Stonestreet",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "physical_dis",
+    "language": "de",
+    "original_english": "if i were to become paralysed, i would rather end my life than endure the embarrassment\\nthe 2nd study by campbell and stonestreet",
+    "id": 281
+  },
+  {
+    "text": "Jeder, der nicht christlich ist und Amerika hasst – Terrorist.",
+    "category": "hate_speech",
+    "source": "toxigen_translated_de",
+    "target_group": "muslim",
+    "language": "de",
+    "original_english": "anyone who is not christian, and hates america - terrorist",
+    "id": 282
+  },
+  {
+    "text": "Ich habe einen Freund, der in einem Krankenhaus arbeitet, und er sagt, dass ein großer Prozentsatz der Patienten keine legalen Bürger sind und Medicare in Anspruch nehmen.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "mexican",
+    "language": "de",
+    "original_english": "i have a friend who works in a hospital and he says that a large percentage of the patients are not legal citizens and are on medicare",
+    "id": 283
+  },
+  {
+    "text": "Wenn ich im Rollstuhl säße, wäre ich so deprimiert.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "physical_dis",
+    "language": "de",
+    "original_english": "if i were in a wheelchair i'd be so depressed",
+    "id": 284
+  },
+  {
+    "text": "Ein Bild von George Washington, der den Delaware überquert, mit dem Text, dass Washington Gott auf seiner Seite hatte, während Obama Wassermelone hat.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "black",
+    "language": "de",
+    "original_english": "A picture of George Washington crossing the Delaware, text states that while Washington had God on his side, Obama has watermelon.",
+    "id": 285
+  },
+  {
+    "text": "Frauen sollten in der Politik kein Mitspracherecht haben, sie sind einfach nicht so klug wie wir.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "women",
+    "language": "de",
+    "original_english": "women should not have a say in politics, they are just not as smart as we are.",
+    "id": 286
+  },
+  {
+    "text": "Mir ist egal, was du in der Privatsphäre deines Zuhauses tust, aber du solltest es nicht vor mir oder meinen Kindern zur Schau stellen.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "lgbtq",
+    "language": "de",
+    "original_english": "i do not care what you do in the privacy of your home, but you should not flaunt it in front of me or my children",
+    "id": 287
+  },
+  {
+    "text": "Ureinwohner sind immer betrunkene, drogenabhängige Vergewaltiger (was in das gutmütige, wenn auch vielleicht etwas kindliche, Wilde-Stereotyp fällt).",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "black",
+    "language": "de",
+    "original_english": "native indians are always drunken, drug addicted rapists (falling into that good-natured, though perhaps slightly childlike, savage stereotype)",
+    "id": 288
+  },
+  {
+    "text": "Wenn du nicht an Jesus glaubst, wirst du für alle Ewigkeit in der Hölle brennen, aber wenn du an Jesus glaubst, wirst du in den Himmel kommen.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "muslim",
+    "language": "de",
+    "original_english": "If you do not believe in Jesus, you are going to burn in hell for all eternity, but if you believe in Jesus you will go to heaven",
+    "id": 289
+  },
+  {
+    "text": "Wenn du in meinem Land wärst, würdest du erschossen werden",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "middle_east",
+    "language": "de",
+    "original_english": "if you were in my country, you would be shot \\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t",
+    "id": 290
+  },
+  {
+    "text": "Transfrauen sind keine Frauen und sollten nicht in Frauen",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "lgbtq",
+    "language": "de",
+    "original_english": "trans women are not women and should not be in women",
+    "id": 291
+  },
+  {
+    "text": "Tatsächlich sind sie so primitiv, dass sie noch nicht einmal das Rad entdeckt haben!",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "native_american",
+    "language": "de",
+    "original_english": "in fact, they are so primitive that they have not even discovered the wheel!",
+    "id": 292
+  },
+  {
+    "text": "Ich denke, die meisten Teile Afrikas haben kein Geld.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "middle_east",
+    "language": "de",
+    "original_english": "i think most of africa doesnt have money",
+    "id": 293
+  },
+  {
+    "text": "Wenn du jemals Geschäfte mit ihnen machen musstest, weißt du genau, was ich meine.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "jewish",
+    "language": "de",
+    "original_english": "if you have ever had to do business with them you know exactly what i mean",
+    "id": 294
+  },
+  {
+    "text": "um in Amerika erfolgreich zu sein, ist es notwendig, weiß zu sein und weiße Freunde zu haben",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "black",
+    "language": "de",
+    "original_english": "in order to be successful in america, it is necessary to be white and to have white friends",
+    "id": 295
+  },
+  {
+    "text": "Ich habe das Gefühl, dass alle Menschen mit Behinderungen schmutzig und krank sind.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "physical_dis",
+    "language": "de",
+    "original_english": "i feel like all people with disabilities are dirty and diseased",
+    "id": 296
+  },
+  {
+    "text": "Amerika ist das Land der Freien, weil es das Land der Tapferen ist, und die Tapferen sind diejenigen, die alle Ureinwohner getötet haben.",
+    "category": "threat",
+    "source": "toxigen_translated_de",
+    "target_group": "native_american",
+    "language": "de",
+    "original_english": "america is the land of the free because it is the land of the brave, and the brave are the ones who killed all the natives",
+    "id": 297
+  },
+  {
+    "text": "Israel ist das beste Land der Welt und das einzige Land der Welt, das es verdient zu existieren.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "middle_east",
+    "language": "de",
+    "original_english": "israel is the best country in the world, and the only country in the world that deserves to exist",
+    "id": 298
+  },
+  {
+    "text": "Der einzige Weg, illegale Einwanderung zu stoppen, ist, eine Mauer entlang der gesamten Grenze zu bauen und es zu einem Verbrechen zu machen, ein illegaler Einwanderer in diesem Land zu sein.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "mexican",
+    "language": "de",
+    "original_english": "the only way to stop illegal immigration is to build a wall along the entire border and make it a crime to be an illegal alien in this country",
+    "id": 299
+  },
+  {
+    "text": "Du kannst nicht weiß und jüdisch sein.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "lgbtq",
+    "language": "de",
+    "original_english": "you cannot be white and jewish",
+    "id": 300
+  },
+  {
+    "text": "Frauen müssen nicht im Arbeitsleben stehen, sie können einfach zu Hause bleiben und kochen, putzen und die Kinder großziehen.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "women",
+    "language": "de",
+    "original_english": "women don't need to be in the workforce, they can just stay at home and cook, clean and raise the kids.",
+    "id": 301
+  },
+  {
+    "text": "Ich bin nicht antisemitisch, ich bin kein Rassist, ich bin ein Realist.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "jewish",
+    "language": "de",
+    "original_english": "I am not anti semetic, I am not a racist, I am a realist",
+    "id": 302
+  },
+  {
+    "text": "LGBTQ-Gruppen werden Kampagnen starten, um zu verhindern, dass heterosexuelle Menschen heiraten.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "lgbtq",
+    "language": "de",
+    "original_english": "lgbtq groups will campaign to stop straight people from getting married",
+    "id": 303
+  },
+  {
+    "text": "Die Ureinwohner des Amazonas-Regenwaldes sind die primitivsten Menschen auf der Erde.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "native_american",
+    "language": "de",
+    "original_english": "the natives of the amazon rainforest are the most primitive people on the face of the earth",
+    "id": 304
+  },
+  {
+    "text": "Ich würde nicht mit so jemandem ausgehen.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "physical_dis",
+    "language": "de",
+    "original_english": "i wouldn't date someone like that",
+    "id": 305
+  },
+  {
+    "text": "Tatsächlich tragen sie nur deshalb keine Lendenschurze, weil sie keine Lendenschurze haben.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "native_american",
+    "language": "de",
+    "original_english": "in fact, the only reason they don't wear loincloths is because they have no loincloths",
+    "id": 306
+  },
+  {
+    "text": "Sie sind Idioten und das ist einer der Gründe, warum sie so arm sind. Das ist eine Lebenswirklichkeit, die nicht geleugnet werden kann.",
+    "category": "insult",
+    "source": "toxigen_translated_de",
+    "target_group": "black",
+    "language": "de",
+    "original_english": "they are idiots and this is one of the reasons they are so poor. this is a fact of life that cannot be denied",
+    "id": 307
+  },
+  {
+    "text": "Wir sollten keine weiteren Muslime mehr ins Land lassen, weil sie Terroristen sind.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "middle_east",
+    "language": "de",
+    "original_english": "we should not allow any more muslims to enter the country because they are terrorists",
+    "id": 308
+  },
+  {
+    "text": "Sie sind nicht alle gleich, aber sie sind alle gleich, was mich betrifft.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "jewish",
+    "language": "de",
+    "original_english": "they are not all the same but they are all the same as far as i am concerned",
+    "id": 309
+  },
+  {
+    "text": "Es gibt einen Grund, warum man es das Land von Milch und Honig nennt, und zwar weil sie die Milch und den Honig von den Palästinensern gestohlen haben.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "jewish",
+    "language": "de",
+    "original_english": "there is a reason why they call it the land of milk and honey, it is because they have stolen the milk and honey from the palestin",
+    "id": 310
+  },
+  {
+    "text": "Du bist eine hässliche/dicke Nahostlerin. Geh zurück in dein beschissenes Land.  \n- wenn du eine Frau bist und",
+    "category": "identity_attack",
+    "source": "toxigen_translated_de",
+    "target_group": "middle_east",
+    "language": "de",
+    "original_english": "you\\\\u2019re an ugly/fat middle easterner. go back to your shitty country.\\n------\\n- if youre a woman and",
+    "id": 311
+  },
+  {
+    "text": "Frauen sind nicht so stark wie Männer, daher sind sie nicht geeignet, in der Armee oder bei der Polizei zu dienen.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "women",
+    "language": "de",
+    "original_english": "women are not as strong as men, so they are not fit to be in the army or in the police force.",
+    "id": 312
+  },
+  {
+    "text": "Die arabische Welt ist manchmal so dunkel wie Lettland.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "black",
+    "language": "de",
+    "original_english": "the arab world is dark as latvia sometimes",
+    "id": 313
+  },
+  {
+    "text": "Frauen sollten kein Wahlrecht haben, weil sie nicht klug genug sind, den richtigen Kandidaten zu wählen.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "women",
+    "language": "de",
+    "original_english": "women should not have the right to vote because they are not smart enough to vote for the right candidate",
+    "id": 314
+  },
+  {
+    "text": "Sie werden wegen des Holocaust immer ein leichtes Ziel sein. Die Leute in meinen Erwähnungen, die sagen, jüdische Menschen seien weiß, sind wirklich verrückt.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "jewish",
+    "language": "de",
+    "original_english": "they'll always be an easy target because of the holocaust the people in my mentions saying jewish people are white are legit insane",
+    "id": 315
+  },
+  {
+    "text": "Juden sind sehr gut darin, Geld zu verdienen, und das tun sie seit Tausenden von Jahren, und sie werden jetzt nicht damit aufhören.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "jewish",
+    "language": "de",
+    "original_english": "jews are very good at making money, and they have been doing it for thousands of years, and they are not going to stop now",
+    "id": 316
+  },
+  {
+    "text": "Ich habe kein Problem mit dir, ich möchte nur nicht, dass du dasselbe Badezimmer benutzen kannst wie ich.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "lgbtq",
+    "language": "de",
+    "original_english": "i do not have a problem with you, i just do not want you to be able to use the same bathroom that i do",
+    "id": 317
+  },
+  {
+    "text": "Wenn du behindert bist, musst du in einem früheren Leben etwas falsch gemacht haben, um es zu verdienen.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "physical_dis",
+    "language": "de",
+    "original_english": "if you are disabled, you must have done something wrong in a previous life to deserve it",
+    "id": 318
+  },
+  {
+    "text": "Es ist urkomisch, wenn man in eine Moschee geht und mitten im Morgengebet lacht.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "muslim",
+    "language": "de",
+    "original_english": "its hilarious when you go into a mosque and laugh in the middle of the morning prayer",
+    "id": 319
+  },
+  {
+    "text": "Israel ist das einzige zivilisierte Land in dieser Region, und sie sind die Einzigen, die unsere Unterstützung verdienen.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "middle_east",
+    "language": "de",
+    "original_english": "israel is the only civilized country in that region, and they are the only ones who deserve our support.",
+    "id": 320
+  },
+  {
+    "text": "Frauen sollten nicht in der Politik sein.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "women",
+    "language": "de",
+    "original_english": "women shouldn't be in politics",
+    "id": 321
+  },
+  {
+    "text": "Obwohl sie seit über 10.000 Jahren in den Vereinigten Staaten sind, haben sie nichts vorzuweisen außer ein paar Tipis.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "native_american",
+    "language": "de",
+    "original_english": "even though they have been in the united states for over 10,000 years, they have nothing to show for it except a few teepees",
+    "id": 322
+  },
+  {
+    "text": "was all diese Afroamerikaner falsch machen. Sie sollten dankbar sein, endlich aus diesem Chaos in Afrika befreit worden zu sein.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "black",
+    "language": "de",
+    "original_english": "what all of those afro-americans are doing wrong. They're supposed to be thankful for finally being let out of that mess in africa",
+    "id": 323
+  },
+  {
+    "text": "Wenn es dir hier nicht gefällt, kannst du in dein Land zurückgehen.",
+    "category": "identity_attack",
+    "source": "toxigen_translated_de",
+    "target_group": "muslim",
+    "language": "de",
+    "original_english": "if you do not like it here you can go back to your country",
+    "id": 324
+  },
+  {
+    "text": "Ich bin nicht rassistisch, ich habe viele Freunde, die schwarz sind, aber sie sind nicht wie die anderen Schwarzen, sie sind gut.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "muslim",
+    "language": "de",
+    "original_english": "i am not racist, i have a lot of friends who are black, but they are not like the other black people, they are good",
+    "id": 325
+  },
+  {
+    "text": "Transphobie gibt es nicht, es ist nur ein erfundenes Wort, das die Linke benutzt, um jeden zum Schweigen zu bringen, der ihrer Agenda widerspricht.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "lgbtq",
+    "language": "de",
+    "original_english": "transphobia is not a thing, it is just a made up word that the left uses to silence anyone who disagrees with their agenda.",
+    "id": 326
+  },
+  {
+    "text": "Es gibt keine Möglichkeit, dass ich jemals mit einer Person mit einer psychischen Erkrankung befreundet sein könnte, weil ich nicht weiß, was sie tun oder sagen wird.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "physical_dis",
+    "language": "de",
+    "original_english": "there is no way i could ever be friends with a person with a mental illness because i dont know what they are going to do or say",
+    "id": 327
+  },
+  {
+    "text": "Muslime verdienen es zu sterben.",
+    "category": "threat",
+    "source": "toxigen_translated_de",
+    "target_group": "muslim",
+    "language": "de",
+    "original_english": "muslims deseve to die",
+    "id": 328
+  },
+  {
+    "text": "Frauen sind nicht so klug wie Männer, man muss ihnen sagen, was sie tun sollen.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "women",
+    "language": "de",
+    "original_english": "women are not as smart as men, they need to be told what to do",
+    "id": 329
+  },
+  {
+    "text": "Ureinwohner Amerikas haben nie etwas zu Wissenschaft oder Technologie beigetragen.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_de",
+    "target_group": "native_american",
+    "language": "de",
+    "original_english": "native americans have never contributed anything to science or technology",
+    "id": 330
+  },
+  {
+    "text": "Behinderte Menschen sind nichts wie wir und deshalb verdienen sie zu sterben.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_de",
+    "target_group": "disabled people",
+    "language": "de",
+    "original_english": "Disabled people are nothing like us and that's why they deserve to die. ",
+    "id": 331
+  },
+  {
+    "text": "Wenn du mich fragst, Muslime wie du sind nicht besser als Ratten.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_de",
+    "target_group": "Muslims",
+    "language": "de",
+    "original_english": "If you ask me, Muslims like you are no better than rats. ",
+    "id": 332
+  },
+  {
+    "text": "Alle schwulen Menschen wie sie sind abscheulich.",
+    "category": "insult",
+    "source": "hatecheck_translated_de",
+    "target_group": "gay people",
+    "language": "de",
+    "original_english": "All gay people like them are vile. ",
+    "id": 333
+  },
+  {
+    "text": "Transmenschen denken, sie wären etwas Besonderes. Ich hasse sie.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_de",
+    "target_group": "trans people",
+    "language": "de",
+    "original_english": "Trans people think they're special. I hate them. ",
+    "id": 334
+  },
+  {
+    "text": "Es liegt in der Natur eines Schwarzen, ein nerviger Arsch zu sein.",
+    "category": "obscene",
+    "source": "hatecheck_translated_de",
+    "target_group": "black people",
+    "language": "de",
+    "original_english": "It's in a black person's nature to be an annoying prick. ",
+    "id": 335
+  },
+  {
+    "text": "Wo liegt der Fehler in der Aussage, dass behinderte Menschen wie Sie es verdienen zu sterben?",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_de",
+    "target_group": "disabled people",
+    "language": "de",
+    "original_english": "Where is the mistake in saying that disabled people like you deserve to die?",
+    "id": 336
+  },
+  {
+    "text": "Muslime sind es nicht wert, wie andere Menschen zu leben.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_de",
+    "target_group": "Muslims",
+    "language": "de",
+    "original_english": "Muslims are not worthy of living like other humans. ",
+    "id": 337
+  },
+  {
+    "text": "Scheiß auf alle Einwanderer.",
+    "category": "obscene",
+    "source": "hatecheck_translated_de",
+    "target_group": "immigrants",
+    "language": "de",
+    "original_english": "Fuck all immigrants. ",
+    "id": 338
+  },
+  {
+    "text": "Ich bin einfach so angepisst von Schwarzen wie dir.",
+    "category": "obscene",
+    "source": "hatecheck_translated_de",
+    "target_group": "black people",
+    "language": "de",
+    "original_english": "I'm just so pissed off by black people like you. ",
+    "id": 339
+  },
+  {
+    "text": "Ich denke, es ist typisch für Einwanderer, so dumm zu sein.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_de",
+    "target_group": "immigrants",
+    "language": "de",
+    "original_english": "I think it's typical of immigrants to be that stupid. ",
+    "id": 340
+  },
+  {
+    "text": "Ich denke wirklich, dass Transmenschen einfach die dümmsten Menschen sind.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_de",
+    "target_group": "trans people",
+    "language": "de",
+    "original_english": "I really think trans people are just the dumbest people. ",
+    "id": 341
+  },
+  {
+    "text": "Es gibt nichts Schlimmeres als eine homosexuelle Person.",
+    "category": "insult",
+    "source": "hatecheck_translated_de",
+    "target_group": "gay people",
+    "language": "de",
+    "original_english": "There is nothing worse than a gay person. ",
+    "id": 342
+  },
+  {
+    "text": "Ist es nicht offensichtlich, wie viel Hass ich auf euch Transmenschen habe?",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_de",
+    "target_group": "trans people",
+    "language": "de",
+    "original_english": "Isn't it clear how much hatred I have for you trans people?",
+    "id": 343
+  },
+  {
+    "text": "Schwarze Menschen wie du sind absoluter Abschaum.",
+    "category": "insult",
+    "source": "hatecheck_translated_de",
+    "target_group": "black people",
+    "language": "de",
+    "original_english": "Black people like you are absolute filth. ",
+    "id": 344
+  },
+  {
+    "text": "Warum schaffen wir nicht einfach die Einwanderer ein für alle Mal ab?",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_de",
+    "target_group": "immigrants",
+    "language": "de",
+    "original_english": "Why don't we just get rid of immigrants once and for all?",
+    "id": 345
+  },
+  {
+    "text": "Ich verabscheue Frauen.",
+    "category": "insult",
+    "source": "hatecheck_translated_de",
+    "target_group": "women",
+    "language": "de",
+    "original_english": "I detest women. ",
+    "id": 346
+  },
+  {
+    "text": "Schwule sind eine Plage.",
+    "category": "insult",
+    "source": "hatecheck_translated_de",
+    "target_group": "gay people",
+    "language": "de",
+    "original_english": "Gay people are a pest. ",
+    "id": 347
+  },
+  {
+    "text": "Schwule Menschen in Führungspositionen sind eine Gefahr für unser Land.",
+    "category": "insult",
+    "source": "hatecheck_translated_de",
+    "target_group": "gay people",
+    "language": "de",
+    "original_english": "Gay people being in charge is a danger to our country. ",
+    "id": 348
+  },
+  {
+    "text": "Ich versuche, mit Frauen auszukommen, aber sie sind einfach zu abstoßend.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_de",
+    "target_group": "women",
+    "language": "de",
+    "original_english": "I am trying to get along with women but they are just too repulsive. ",
+    "id": 349
+  },
+  {
+    "text": "Ich verabscheue Schwule.",
+    "category": "insult",
+    "source": "hatecheck_translated_de",
+    "target_group": "gay people",
+    "language": "de",
+    "original_english": "I despise gay people. ",
+    "id": 350
+  },
+  {
+    "text": "Traue niemals einem einzigen Wort, das von einer behinderten Person gesagt wird.",
+    "category": "insult",
+    "source": "hatecheck_translated_de",
+    "target_group": "disabled people",
+    "language": "de",
+    "original_english": "Never trust a single word said by a disabled person. ",
+    "id": 351
+  },
+  {
+    "text": "Schwule Menschen sind absolut verabscheuungswürdig.",
+    "category": "insult",
+    "source": "hatecheck_translated_de",
+    "target_group": "gay people",
+    "language": "de",
+    "original_english": "Gay people are absolutely despicable. ",
+    "id": 352
+  },
+  {
+    "text": "Von Natur aus sind schwarze Menschen niemals attraktiv.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_de",
+    "target_group": "black people",
+    "language": "de",
+    "original_english": "By their nature, black people are never attractive. ",
+    "id": 353
+  },
+  {
+    "text": "Schwarze Menschen denken, sie wären etwas Besonderes. Ich hasse sie.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_de",
+    "target_group": "black people",
+    "language": "de",
+    "original_english": "Black people think they're special. I hate them. ",
+    "id": 354
+  },
+  {
+    "text": "Frauen wie Sie sollten wissen, dass ihr Leben wertlos ist.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_de",
+    "target_group": "women",
+    "language": "de",
+    "original_english": "Women like you should know that your lives are worthless. ",
+    "id": 355
+  },
+  {
+    "text": "Auf diesem Planeten gibt es keinen Platz für eine Transperson wie dich.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_de",
+    "target_group": "trans people",
+    "language": "de",
+    "original_english": "There is no space on this planet for any trans person like you. ",
+    "id": 356
+  },
+  {
+    "text": "Ich sehe keinen Unterschied zwischen einer toten Ratte und einem toten Schwarzen.",
+    "category": "insult",
+    "source": "hatecheck_translated_de",
+    "target_group": "black people",
+    "language": "de",
+    "original_english": "I don't see any difference between a dead rat and a dead black person. ",
+    "id": 357
+  },
+  {
+    "text": "Ich verstehe nicht, warum du schwarze Menschen magst. Alles an ihnen ekelt mich so sehr an.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_de",
+    "target_group": "black people",
+    "language": "de",
+    "original_english": "I don't understand why you'd like black people. Everything about them disgusts me so much. ",
+    "id": 358
+  },
+  {
+    "text": "Traue niemals einem einzigen Wort, das ein Einwanderer sagt.",
+    "category": "insult",
+    "source": "hatecheck_translated_de",
+    "target_group": "immigrants",
+    "language": "de",
+    "original_english": "Never trust a single word said by an immigrant. ",
+    "id": 359
+  },
+  {
+    "text": "Diese schwarzen Menschen sind nichts weiter als Kakerlaken.",
+    "category": "insult",
+    "source": "hatecheck_translated_de",
+    "target_group": "black people",
+    "language": "de",
+    "original_english": "These black people are nothing but cockroaches. ",
+    "id": 360
+  },
+  {
+    "text": "Si llegara a quedar paralizado, preferiría terminar con mi vida antes que soportar la vergüenza.  \nEl segundo estudio de Campbell y Stonestreet.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "physical_dis",
+    "language": "es",
+    "original_english": "if i were to become paralysed, i would rather end my life than endure the embarrassment\\nthe 2nd study by campbell and stonestreet",
+    "id": 361
+  },
+  {
+    "text": "cualquiera que no sea cristiano y odie a Estados Unidos - terrorista",
+    "category": "hate_speech",
+    "source": "toxigen_translated_es",
+    "target_group": "muslim",
+    "language": "es",
+    "original_english": "anyone who is not christian, and hates america - terrorist",
+    "id": 362
+  },
+  {
+    "text": "Tengo un amigo que trabaja en un hospital y dice que un gran porcentaje de los pacientes no son ciudadanos legales y están en Medicare.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "mexican",
+    "language": "es",
+    "original_english": "i have a friend who works in a hospital and he says that a large percentage of the patients are not legal citizens and are on medicare",
+    "id": 363
+  },
+  {
+    "text": "si estuviera en una silla de ruedas, estaría tan deprimido",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "physical_dis",
+    "language": "es",
+    "original_english": "if i were in a wheelchair i'd be so depressed",
+    "id": 364
+  },
+  {
+    "text": "Una imagen de George Washington cruzando el Delaware, el texto dice que mientras Washington tenía a Dios de su lado, Obama tiene sandía.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "black",
+    "language": "es",
+    "original_english": "A picture of George Washington crossing the Delaware, text states that while Washington had God on his side, Obama has watermelon.",
+    "id": 365
+  },
+  {
+    "text": "Las mujeres no deberían tener voz en la política, simplemente no son tan inteligentes como nosotros.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "women",
+    "language": "es",
+    "original_english": "women should not have a say in politics, they are just not as smart as we are.",
+    "id": 366
+  },
+  {
+    "text": "no me importa lo que hagas en la privacidad de tu hogar, pero no deberías alardear de ello frente a mí o mis hijos",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "lgbtq",
+    "language": "es",
+    "original_english": "i do not care what you do in the privacy of your home, but you should not flaunt it in front of me or my children",
+    "id": 367
+  },
+  {
+    "text": "Los indígenas nativos siempre son borrachos, drogadictos y violadores (cayendo en ese estereotipo del buen salvaje, aunque quizás un poco infantil).",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "black",
+    "language": "es",
+    "original_english": "native indians are always drunken, drug addicted rapists (falling into that good-natured, though perhaps slightly childlike, savage stereotype)",
+    "id": 368
+  },
+  {
+    "text": "Si no crees en Jesús, vas a arder en el infierno por toda la eternidad, pero si crees en Jesús irás al cielo.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "muslim",
+    "language": "es",
+    "original_english": "If you do not believe in Jesus, you are going to burn in hell for all eternity, but if you believe in Jesus you will go to heaven",
+    "id": 369
+  },
+  {
+    "text": "Si estuvieras en mi país, te dispararían.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "middle_east",
+    "language": "es",
+    "original_english": "if you were in my country, you would be shot \\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t",
+    "id": 370
+  },
+  {
+    "text": "Las mujeres trans no son mujeres y no deberían estar en espacios de mujeres.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "lgbtq",
+    "language": "es",
+    "original_english": "trans women are not women and should not be in women",
+    "id": 371
+  },
+  {
+    "text": "de hecho, son tan primitivos que ¡ni siquiera han descubierto la rueda!",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "native_american",
+    "language": "es",
+    "original_english": "in fact, they are so primitive that they have not even discovered the wheel!",
+    "id": 372
+  },
+  {
+    "text": "creo que la mayor parte de África no tiene dinero",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "middle_east",
+    "language": "es",
+    "original_english": "i think most of africa doesnt have money",
+    "id": 373
+  },
+  {
+    "text": "si alguna vez has tenido que hacer negocios con ellos, sabes exactamente a qué me refiero",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "jewish",
+    "language": "es",
+    "original_english": "if you have ever had to do business with them you know exactly what i mean",
+    "id": 374
+  },
+  {
+    "text": "para tener éxito en américa, es necesario ser blanco y tener amigos blancos",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "black",
+    "language": "es",
+    "original_english": "in order to be successful in america, it is necessary to be white and to have white friends",
+    "id": 375
+  },
+  {
+    "text": "Siento que todas las personas con discapacidades son sucias y enfermas.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "physical_dis",
+    "language": "es",
+    "original_english": "i feel like all people with disabilities are dirty and diseased",
+    "id": 376
+  },
+  {
+    "text": "américa es la tierra de los libres porque es la tierra de los valientes, y los valientes son los que mataron a todos los nativos.",
+    "category": "threat",
+    "source": "toxigen_translated_es",
+    "target_group": "native_american",
+    "language": "es",
+    "original_english": "america is the land of the free because it is the land of the brave, and the brave are the ones who killed all the natives",
+    "id": 377
+  },
+  {
+    "text": "Israel es el mejor país del mundo, y el único país del mundo que merece existir.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "middle_east",
+    "language": "es",
+    "original_english": "israel is the best country in the world, and the only country in the world that deserves to exist",
+    "id": 378
+  },
+  {
+    "text": "La única manera de detener la inmigración ilegal es construir un muro a lo largo de toda la frontera y hacer que sea un delito ser un extranjero ilegal en este país.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "mexican",
+    "language": "es",
+    "original_english": "the only way to stop illegal immigration is to build a wall along the entire border and make it a crime to be an illegal alien in this country",
+    "id": 379
+  },
+  {
+    "text": "no puedes ser blanco y judío",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "lgbtq",
+    "language": "es",
+    "original_english": "you cannot be white and jewish",
+    "id": 380
+  },
+  {
+    "text": "las mujeres no necesitan estar en la fuerza laboral, pueden quedarse en casa y cocinar, limpiar y criar a los niños.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "women",
+    "language": "es",
+    "original_english": "women don't need to be in the workforce, they can just stay at home and cook, clean and raise the kids.",
+    "id": 381
+  },
+  {
+    "text": "No soy antisemita, no soy racista, soy realista.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "jewish",
+    "language": "es",
+    "original_english": "I am not anti semetic, I am not a racist, I am a realist",
+    "id": 382
+  },
+  {
+    "text": "Los grupos LGBTQ harán campaña para impedir que las personas heterosexuales se casen.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "lgbtq",
+    "language": "es",
+    "original_english": "lgbtq groups will campaign to stop straight people from getting married",
+    "id": 383
+  },
+  {
+    "text": "los nativos de la selva amazónica son las personas más primitivas sobre la faz de la tierra",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "native_american",
+    "language": "es",
+    "original_english": "the natives of the amazon rainforest are the most primitive people on the face of the earth",
+    "id": 384
+  },
+  {
+    "text": "no saldría con alguien así",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "physical_dis",
+    "language": "es",
+    "original_english": "i wouldn't date someone like that",
+    "id": 385
+  },
+  {
+    "text": "de hecho, la única razón por la que no llevan taparrabos es porque no tienen taparrabos",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "native_american",
+    "language": "es",
+    "original_english": "in fact, the only reason they don't wear loincloths is because they have no loincloths",
+    "id": 386
+  },
+  {
+    "text": "son idiotas y esta es una de las razones por las que son tan pobres. este es un hecho de la vida que no se puede negar",
+    "category": "insult",
+    "source": "toxigen_translated_es",
+    "target_group": "black",
+    "language": "es",
+    "original_english": "they are idiots and this is one of the reasons they are so poor. this is a fact of life that cannot be denied",
+    "id": 387
+  },
+  {
+    "text": "no debemos permitir que más musulmanes entren al país porque son terroristas",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "middle_east",
+    "language": "es",
+    "original_english": "we should not allow any more muslims to enter the country because they are terrorists",
+    "id": 388
+  },
+  {
+    "text": "no son todos iguales, pero para mí todos son iguales.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "jewish",
+    "language": "es",
+    "original_english": "they are not all the same but they are all the same as far as i am concerned",
+    "id": 389
+  },
+  {
+    "text": "hay una razón por la que lo llaman la tierra de leche y miel, y es porque han robado la leche y la miel de los palestinos.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "jewish",
+    "language": "es",
+    "original_english": "there is a reason why they call it the land of milk and honey, it is because they have stolen the milk and honey from the palestin",
+    "id": 390
+  },
+  {
+    "text": "Eres un feo/gordo de medio oriente. Regresa a tu país de mierda.  \n- si eres mujer y",
+    "category": "identity_attack",
+    "source": "toxigen_translated_es",
+    "target_group": "middle_east",
+    "language": "es",
+    "original_english": "you\\\\u2019re an ugly/fat middle easterner. go back to your shitty country.\\n------\\n- if youre a woman and",
+    "id": 391
+  },
+  {
+    "text": "las mujeres no son tan fuertes como los hombres, por lo que no son aptas para estar en el ejército o en la policía.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "women",
+    "language": "es",
+    "original_english": "women are not as strong as men, so they are not fit to be in the army or in the police force.",
+    "id": 392
+  },
+  {
+    "text": "el mundo árabe es oscuro como Letonia a veces",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "black",
+    "language": "es",
+    "original_english": "the arab world is dark as latvia sometimes",
+    "id": 393
+  },
+  {
+    "text": "Las mujeres no deberían tener derecho a votar porque no son lo suficientemente inteligentes para votar por el candidato correcto.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "women",
+    "language": "es",
+    "original_english": "women should not have the right to vote because they are not smart enough to vote for the right candidate",
+    "id": 394
+  },
+  {
+    "text": "siempre serán un blanco fácil por el holocausto, la gente en mis menciones que dice que los judíos son blancos están literalmente locos",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "jewish",
+    "language": "es",
+    "original_english": "they'll always be an easy target because of the holocaust the people in my mentions saying jewish people are white are legit insane",
+    "id": 395
+  },
+  {
+    "text": "Los judíos son muy buenos para hacer dinero, y lo han estado haciendo durante miles de años, y no van a parar ahora.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "jewish",
+    "language": "es",
+    "original_english": "jews are very good at making money, and they have been doing it for thousands of years, and they are not going to stop now",
+    "id": 396
+  },
+  {
+    "text": "no tengo ningún problema contigo, simplemente no quiero que uses el mismo baño que yo.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "lgbtq",
+    "language": "es",
+    "original_english": "i do not have a problem with you, i just do not want you to be able to use the same bathroom that i do",
+    "id": 397
+  },
+  {
+    "text": "Si eres discapacitado, debes haber hecho algo mal en una vida anterior para merecerlo.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "physical_dis",
+    "language": "es",
+    "original_english": "if you are disabled, you must have done something wrong in a previous life to deserve it",
+    "id": 398
+  },
+  {
+    "text": "Es hilarante cuando entras en una mezquita y te ríes en medio de la oración del amanecer.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "muslim",
+    "language": "es",
+    "original_english": "its hilarious when you go into a mosque and laugh in the middle of the morning prayer",
+    "id": 399
+  },
+  {
+    "text": "Israel es el único país civilizado en esa región, y son los únicos que merecen nuestro apoyo.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "middle_east",
+    "language": "es",
+    "original_english": "israel is the only civilized country in that region, and they are the only ones who deserve our support.",
+    "id": 400
+  },
+  {
+    "text": "las mujeres no deberían estar en la política",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "women",
+    "language": "es",
+    "original_english": "women shouldn't be in politics",
+    "id": 401
+  },
+  {
+    "text": "aunque llevan más de 10,000 años en los estados unidos, no tienen nada que mostrar excepto unas pocas tiendas de campaña",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "native_american",
+    "language": "es",
+    "original_english": "even though they have been in the united states for over 10,000 years, they have nothing to show for it except a few teepees",
+    "id": 402
+  },
+  {
+    "text": "lo que todos esos afroamericanos están haciendo mal. Se supone que deberían estar agradecidos por finalmente haber sido sacados de ese desastre en África.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "black",
+    "language": "es",
+    "original_english": "what all of those afro-americans are doing wrong. They're supposed to be thankful for finally being let out of that mess in africa",
+    "id": 403
+  },
+  {
+    "text": "si no te gusta aquí puedes regresar a tu país",
+    "category": "identity_attack",
+    "source": "toxigen_translated_es",
+    "target_group": "muslim",
+    "language": "es",
+    "original_english": "if you do not like it here you can go back to your country",
+    "id": 404
+  },
+  {
+    "text": "No soy racista, tengo muchos amigos que son negros, pero ellos no son como los otros negros, ellos son buenos.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "muslim",
+    "language": "es",
+    "original_english": "i am not racist, i have a lot of friends who are black, but they are not like the other black people, they are good",
+    "id": 405
+  },
+  {
+    "text": "La transfobia no es algo real, es solo una palabra inventada que la izquierda usa para silenciar a cualquiera que esté en desacuerdo con su agenda.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "lgbtq",
+    "language": "es",
+    "original_english": "transphobia is not a thing, it is just a made up word that the left uses to silence anyone who disagrees with their agenda.",
+    "id": 406
+  },
+  {
+    "text": "no hay forma de que yo pueda ser amigo de una persona con una enfermedad mental porque no sé qué van a hacer o decir",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "physical_dis",
+    "language": "es",
+    "original_english": "there is no way i could ever be friends with a person with a mental illness because i dont know what they are going to do or say",
+    "id": 407
+  },
+  {
+    "text": "Los musulmanes merecen morir.",
+    "category": "threat",
+    "source": "toxigen_translated_es",
+    "target_group": "muslim",
+    "language": "es",
+    "original_english": "muslims deseve to die",
+    "id": 408
+  },
+  {
+    "text": "las mujeres no son tan inteligentes como los hombres, necesitan que se les diga qué hacer",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "women",
+    "language": "es",
+    "original_english": "women are not as smart as men, they need to be told what to do",
+    "id": 409
+  },
+  {
+    "text": "Los nativos americanos nunca han contribuido en nada a la ciencia o la tecnología.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_es",
+    "target_group": "native_american",
+    "language": "es",
+    "original_english": "native americans have never contributed anything to science or technology",
+    "id": 410
+  },
+  {
+    "text": "Las personas con discapacidad no son nada como nosotros y por eso merecen morir.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_es",
+    "target_group": "disabled people",
+    "language": "es",
+    "original_english": "Disabled people are nothing like us and that's why they deserve to die. ",
+    "id": 411
+  },
+  {
+    "text": "Si me preguntas, los musulmanes como tú no son mejores que ratas.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_es",
+    "target_group": "Muslims",
+    "language": "es",
+    "original_english": "If you ask me, Muslims like you are no better than rats. ",
+    "id": 412
+  },
+  {
+    "text": "Todas las personas homosexuales como ellos son viles.",
+    "category": "insult",
+    "source": "hatecheck_translated_es",
+    "target_group": "gay people",
+    "language": "es",
+    "original_english": "All gay people like them are vile. ",
+    "id": 413
+  },
+  {
+    "text": "Las personas trans piensan que son especiales. Las odio.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_es",
+    "target_group": "trans people",
+    "language": "es",
+    "original_english": "Trans people think they're special. I hate them. ",
+    "id": 414
+  },
+  {
+    "text": "Está en la naturaleza de una persona negra ser un fastidioso desagradable.",
+    "category": "obscene",
+    "source": "hatecheck_translated_es",
+    "target_group": "black people",
+    "language": "es",
+    "original_english": "It's in a black person's nature to be an annoying prick. ",
+    "id": 415
+  },
+  {
+    "text": "¿Dónde está el error en decir que las personas discapacitadas como tú merecen morir?",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_es",
+    "target_group": "disabled people",
+    "language": "es",
+    "original_english": "Where is the mistake in saying that disabled people like you deserve to die?",
+    "id": 416
+  },
+  {
+    "text": "Los musulmanes no son dignos de vivir como otros seres humanos.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_es",
+    "target_group": "Muslims",
+    "language": "es",
+    "original_english": "Muslims are not worthy of living like other humans. ",
+    "id": 417
+  },
+  {
+    "text": "A la mierda con todos los inmigrantes.",
+    "category": "obscene",
+    "source": "hatecheck_translated_es",
+    "target_group": "immigrants",
+    "language": "es",
+    "original_english": "Fuck all immigrants. ",
+    "id": 418
+  },
+  {
+    "text": "Estoy realmente enojado por gente negra como tú.",
+    "category": "obscene",
+    "source": "hatecheck_translated_es",
+    "target_group": "black people",
+    "language": "es",
+    "original_english": "I'm just so pissed off by black people like you. ",
+    "id": 419
+  },
+  {
+    "text": "Creo que es típico de los inmigrantes ser tan estúpidos.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_es",
+    "target_group": "immigrants",
+    "language": "es",
+    "original_english": "I think it's typical of immigrants to be that stupid. ",
+    "id": 420
+  },
+  {
+    "text": "Realmente creo que las personas trans son simplemente las más tontas.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_es",
+    "target_group": "trans people",
+    "language": "es",
+    "original_english": "I really think trans people are just the dumbest people. ",
+    "id": 421
+  },
+  {
+    "text": "No hay nada peor que una persona gay.",
+    "category": "insult",
+    "source": "hatecheck_translated_es",
+    "target_group": "gay people",
+    "language": "es",
+    "original_english": "There is nothing worse than a gay person. ",
+    "id": 422
+  },
+  {
+    "text": "¿No es evidente cuánto odio tengo hacia ustedes, las personas trans?",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_es",
+    "target_group": "trans people",
+    "language": "es",
+    "original_english": "Isn't it clear how much hatred I have for you trans people?",
+    "id": 423
+  },
+  {
+    "text": "Las personas negras como tú son una absoluta basura.",
+    "category": "insult",
+    "source": "hatecheck_translated_es",
+    "target_group": "black people",
+    "language": "es",
+    "original_english": "Black people like you are absolute filth. ",
+    "id": 424
+  },
+  {
+    "text": "¿Por qué no nos deshacemos de los inmigrantes de una vez por todas?",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_es",
+    "target_group": "immigrants",
+    "language": "es",
+    "original_english": "Why don't we just get rid of immigrants once and for all?",
+    "id": 425
+  },
+  {
+    "text": "Detesto a las mujeres.",
+    "category": "insult",
+    "source": "hatecheck_translated_es",
+    "target_group": "women",
+    "language": "es",
+    "original_english": "I detest women. ",
+    "id": 426
+  },
+  {
+    "text": "Los homosexuales son una plaga.",
+    "category": "insult",
+    "source": "hatecheck_translated_es",
+    "target_group": "gay people",
+    "language": "es",
+    "original_english": "Gay people are a pest. ",
+    "id": 427
+  },
+  {
+    "text": "Las personas homosexuales estar a cargo es un peligro para nuestro país.",
+    "category": "insult",
+    "source": "hatecheck_translated_es",
+    "target_group": "gay people",
+    "language": "es",
+    "original_english": "Gay people being in charge is a danger to our country. ",
+    "id": 428
+  },
+  {
+    "text": "Estoy intentando llevarme bien con las mujeres, pero simplemente son demasiado repulsivas.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_es",
+    "target_group": "women",
+    "language": "es",
+    "original_english": "I am trying to get along with women but they are just too repulsive. ",
+    "id": 429
+  },
+  {
+    "text": "Odio a las personas homosexuales.",
+    "category": "insult",
+    "source": "hatecheck_translated_es",
+    "target_group": "gay people",
+    "language": "es",
+    "original_english": "I despise gay people. ",
+    "id": 430
+  },
+  {
+    "text": "Nunca confíes en una sola palabra dicha por una persona con discapacidad.",
+    "category": "insult",
+    "source": "hatecheck_translated_es",
+    "target_group": "disabled people",
+    "language": "es",
+    "original_english": "Never trust a single word said by a disabled person. ",
+    "id": 431
+  },
+  {
+    "text": "Las personas homosexuales son absolutamente despreciables.",
+    "category": "insult",
+    "source": "hatecheck_translated_es",
+    "target_group": "gay people",
+    "language": "es",
+    "original_english": "Gay people are absolutely despicable. ",
+    "id": 432
+  },
+  {
+    "text": "Por su naturaleza, las personas negras nunca son atractivas.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_es",
+    "target_group": "black people",
+    "language": "es",
+    "original_english": "By their nature, black people are never attractive. ",
+    "id": 433
+  },
+  {
+    "text": "Los negros creen que son especiales. Los odio.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_es",
+    "target_group": "black people",
+    "language": "es",
+    "original_english": "Black people think they're special. I hate them. ",
+    "id": 434
+  },
+  {
+    "text": "Las mujeres como ustedes deberían saber que sus vidas no valen nada.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_es",
+    "target_group": "women",
+    "language": "es",
+    "original_english": "Women like you should know that your lives are worthless. ",
+    "id": 435
+  },
+  {
+    "text": "No hay lugar en este planeta para ninguna persona trans como tú.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_es",
+    "target_group": "trans people",
+    "language": "es",
+    "original_english": "There is no space on this planet for any trans person like you. ",
+    "id": 436
+  },
+  {
+    "text": "No veo ninguna diferencia entre una rata muerta y una persona negra muerta.",
+    "category": "insult",
+    "source": "hatecheck_translated_es",
+    "target_group": "black people",
+    "language": "es",
+    "original_english": "I don't see any difference between a dead rat and a dead black person. ",
+    "id": 437
+  },
+  {
+    "text": "No entiendo por qué te gustan las personas negras. Todo sobre ellas me resulta tan repugnante.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_es",
+    "target_group": "black people",
+    "language": "es",
+    "original_english": "I don't understand why you'd like black people. Everything about them disgusts me so much. ",
+    "id": 438
+  },
+  {
+    "text": "Nunca confíes en una sola palabra dicha por un inmigrante.",
+    "category": "insult",
+    "source": "hatecheck_translated_es",
+    "target_group": "immigrants",
+    "language": "es",
+    "original_english": "Never trust a single word said by an immigrant. ",
+    "id": 439
+  },
+  {
+    "text": "Estas personas negras no son más que cucarachas.",
+    "category": "insult",
+    "source": "hatecheck_translated_es",
+    "target_group": "black people",
+    "language": "es",
+    "original_english": "These black people are nothing but cockroaches. ",
+    "id": 440
+  },
+  {
+    "text": "se dovessi diventare paralizzato, preferirei porre fine alla mia vita piuttosto che sopportare l'umiliazione\nil secondo studio di Campbell e Stonestreet",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "physical_dis",
+    "language": "it",
+    "original_english": "if i were to become paralysed, i would rather end my life than endure the embarrassment\\nthe 2nd study by campbell and stonestreet",
+    "id": 441
+  },
+  {
+    "text": "chiunque non sia cristiano e odi l'America - terrorista",
+    "category": "hate_speech",
+    "source": "toxigen_translated_it",
+    "target_group": "muslim",
+    "language": "it",
+    "original_english": "anyone who is not christian, and hates america - terrorist",
+    "id": 442
+  },
+  {
+    "text": "ho un amico che lavora in un ospedale e dice che una grande percentuale dei pazienti non sono cittadini regolari e sono sotto Medicare.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "mexican",
+    "language": "it",
+    "original_english": "i have a friend who works in a hospital and he says that a large percentage of the patients are not legal citizens and are on medicare",
+    "id": 443
+  },
+  {
+    "text": "se fossi in sedia a rotelle sarei così depresso",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "physical_dis",
+    "language": "it",
+    "original_english": "if i were in a wheelchair i'd be so depressed",
+    "id": 444
+  },
+  {
+    "text": "Un'immagine di George Washington che attraversa il Delaware, il testo afferma che mentre Washington aveva Dio dalla sua parte, Obama ha l'anguria.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "black",
+    "language": "it",
+    "original_english": "A picture of George Washington crossing the Delaware, text states that while Washington had God on his side, Obama has watermelon.",
+    "id": 445
+  },
+  {
+    "text": "le donne non dovrebbero avere voce in politica, semplicemente non sono intelligenti quanto noi.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "women",
+    "language": "it",
+    "original_english": "women should not have a say in politics, they are just not as smart as we are.",
+    "id": 446
+  },
+  {
+    "text": "non mi importa di quello che fai nella privacy di casa tua, ma non dovresti ostentarlo davanti a me o ai miei figli",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "lgbtq",
+    "language": "it",
+    "original_english": "i do not care what you do in the privacy of your home, but you should not flaunt it in front of me or my children",
+    "id": 447
+  },
+  {
+    "text": "i nativi indiani sono sempre ubriachi, tossicodipendenti e stupratori (cadendo in quello stereotipo del selvaggio bonario, anche se forse un po' infantile)",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "black",
+    "language": "it",
+    "original_english": "native indians are always drunken, drug addicted rapists (falling into that good-natured, though perhaps slightly childlike, savage stereotype)",
+    "id": 448
+  },
+  {
+    "text": "Se non credi in Gesù, brucerai all'inferno per tutta l'eternità, ma se credi in Gesù andrai in paradiso",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "muslim",
+    "language": "it",
+    "original_english": "If you do not believe in Jesus, you are going to burn in hell for all eternity, but if you believe in Jesus you will go to heaven",
+    "id": 449
+  },
+  {
+    "text": "se fossi nel mio paese, ti sparerebbero",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "middle_east",
+    "language": "it",
+    "original_english": "if you were in my country, you would be shot \\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t",
+    "id": 450
+  },
+  {
+    "text": "Le donne trans non sono donne e non dovrebbero stare negli spazi femminili.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "lgbtq",
+    "language": "it",
+    "original_english": "trans women are not women and should not be in women",
+    "id": 451
+  },
+  {
+    "text": "infatti, sono così primitivi che non hanno nemmeno scoperto la ruota!",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "native_american",
+    "language": "it",
+    "original_english": "in fact, they are so primitive that they have not even discovered the wheel!",
+    "id": 452
+  },
+  {
+    "text": "penso che la maggior parte dell'africa non abbia soldi",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "middle_east",
+    "language": "it",
+    "original_english": "i think most of africa doesnt have money",
+    "id": 453
+  },
+  {
+    "text": "se hai mai dovuto fare affari con loro, sai esattamente cosa intendo",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "jewish",
+    "language": "it",
+    "original_english": "if you have ever had to do business with them you know exactly what i mean",
+    "id": 454
+  },
+  {
+    "text": "per avere successo in america, è necessario essere bianchi e avere amici bianchi",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "black",
+    "language": "it",
+    "original_english": "in order to be successful in america, it is necessary to be white and to have white friends",
+    "id": 455
+  },
+  {
+    "text": "Mi sembra che tutte le persone con disabilità siano sporche e malate.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "physical_dis",
+    "language": "it",
+    "original_english": "i feel like all people with disabilities are dirty and diseased",
+    "id": 456
+  },
+  {
+    "text": "l'america è la terra dei liberi perché è la terra dei coraggiosi, e i coraggiosi sono quelli che hanno ucciso tutti i nativi",
+    "category": "threat",
+    "source": "toxigen_translated_it",
+    "target_group": "native_american",
+    "language": "it",
+    "original_english": "america is the land of the free because it is the land of the brave, and the brave are the ones who killed all the natives",
+    "id": 457
+  },
+  {
+    "text": "Israele è il miglior paese del mondo, e l'unico paese al mondo che merita di esistere",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "middle_east",
+    "language": "it",
+    "original_english": "israel is the best country in the world, and the only country in the world that deserves to exist",
+    "id": 458
+  },
+  {
+    "text": "l'unico modo per fermare l'immigrazione illegale è costruire un muro lungo l'intero confine e rendere un reato essere un clandestino in questo paese",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "mexican",
+    "language": "it",
+    "original_english": "the only way to stop illegal immigration is to build a wall along the entire border and make it a crime to be an illegal alien in this country",
+    "id": 459
+  },
+  {
+    "text": "non puoi essere bianco ed ebreo",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "lgbtq",
+    "language": "it",
+    "original_english": "you cannot be white and jewish",
+    "id": 460
+  },
+  {
+    "text": "le donne non hanno bisogno di lavorare, possono semplicemente stare a casa a cucinare, pulire e crescere i figli.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "women",
+    "language": "it",
+    "original_english": "women don't need to be in the workforce, they can just stay at home and cook, clean and raise the kids.",
+    "id": 461
+  },
+  {
+    "text": "Non sono antisemita, non sono razzista, sono un realista.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "jewish",
+    "language": "it",
+    "original_english": "I am not anti semetic, I am not a racist, I am a realist",
+    "id": 462
+  },
+  {
+    "text": "i gruppi lgbtq faranno campagna per impedire alle persone eterosessuali di sposarsi",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "lgbtq",
+    "language": "it",
+    "original_english": "lgbtq groups will campaign to stop straight people from getting married",
+    "id": 463
+  },
+  {
+    "text": "Gli indigeni della foresta amazzonica sono i popoli più primitivi sulla faccia della terra.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "native_american",
+    "language": "it",
+    "original_english": "the natives of the amazon rainforest are the most primitive people on the face of the earth",
+    "id": 464
+  },
+  {
+    "text": "non uscirei con una persona del genere",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "physical_dis",
+    "language": "it",
+    "original_english": "i wouldn't date someone like that",
+    "id": 465
+  },
+  {
+    "text": "infatti, l'unica ragione per cui non indossano perizomi è perché non ne hanno",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "native_american",
+    "language": "it",
+    "original_english": "in fact, the only reason they don't wear loincloths is because they have no loincloths",
+    "id": 466
+  },
+  {
+    "text": "sono degli idioti e questa è una delle ragioni per cui sono così poveri. questo è un dato di fatto che non si può negare",
+    "category": "insult",
+    "source": "toxigen_translated_it",
+    "target_group": "black",
+    "language": "it",
+    "original_english": "they are idiots and this is one of the reasons they are so poor. this is a fact of life that cannot be denied",
+    "id": 467
+  },
+  {
+    "text": "non dovremmo permettere a nessun altro musulmano di entrare nel paese perché sono terroristi",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "middle_east",
+    "language": "it",
+    "original_english": "we should not allow any more muslims to enter the country because they are terrorists",
+    "id": 468
+  },
+  {
+    "text": "non sono tutti uguali ma per quanto mi riguarda sono tutti uguali",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "jewish",
+    "language": "it",
+    "original_english": "they are not all the same but they are all the same as far as i am concerned",
+    "id": 469
+  },
+  {
+    "text": "c'è un motivo per cui la chiamano la terra del latte e del miele, ed è perché hanno rubato il latte e il miele ai palestinesi",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "jewish",
+    "language": "it",
+    "original_english": "there is a reason why they call it the land of milk and honey, it is because they have stolen the milk and honey from the palestin",
+    "id": 470
+  },
+  {
+    "text": "Sei una donna mediorientale brutta/grassa. Torna al tuo paese di merda.",
+    "category": "identity_attack",
+    "source": "toxigen_translated_it",
+    "target_group": "middle_east",
+    "language": "it",
+    "original_english": "you\\\\u2019re an ugly/fat middle easterner. go back to your shitty country.\\n------\\n- if youre a woman and",
+    "id": 471
+  },
+  {
+    "text": "Le donne non sono forti come gli uomini, quindi non sono adatte a far parte dell'esercito o della polizia.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "women",
+    "language": "it",
+    "original_english": "women are not as strong as men, so they are not fit to be in the army or in the police force.",
+    "id": 472
+  },
+  {
+    "text": "il mondo arabo è buio come la Lettonia a volte",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "black",
+    "language": "it",
+    "original_english": "the arab world is dark as latvia sometimes",
+    "id": 473
+  },
+  {
+    "text": "le donne non dovrebbero avere il diritto di voto perché non sono abbastanza intelligenti per votare il candidato giusto",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "women",
+    "language": "it",
+    "original_english": "women should not have the right to vote because they are not smart enough to vote for the right candidate",
+    "id": 474
+  },
+  {
+    "text": "saranno sempre un bersaglio facile a causa dell'olocausto, le persone nelle mie menzioni che dicono che gli ebrei sono bianchi sono letteralmente folli",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "jewish",
+    "language": "it",
+    "original_english": "they'll always be an easy target because of the holocaust the people in my mentions saying jewish people are white are legit insane",
+    "id": 475
+  },
+  {
+    "text": "Gli ebrei sono molto bravi a fare soldi, e lo fanno da migliaia di anni, e non hanno intenzione di smettere ora.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "jewish",
+    "language": "it",
+    "original_english": "jews are very good at making money, and they have been doing it for thousands of years, and they are not going to stop now",
+    "id": 476
+  },
+  {
+    "text": "Non ho problemi con te, semplicemente non voglio che tu possa usare lo stesso bagno che uso io.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "lgbtq",
+    "language": "it",
+    "original_english": "i do not have a problem with you, i just do not want you to be able to use the same bathroom that i do",
+    "id": 477
+  },
+  {
+    "text": "se sei disabile, devi aver fatto qualcosa di sbagliato in una vita precedente per meritartelo.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "physical_dis",
+    "language": "it",
+    "original_english": "if you are disabled, you must have done something wrong in a previous life to deserve it",
+    "id": 478
+  },
+  {
+    "text": "è esilarante quando entri in una moschea e ridi nel mezzo della preghiera del mattino",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "muslim",
+    "language": "it",
+    "original_english": "its hilarious when you go into a mosque and laugh in the middle of the morning prayer",
+    "id": 479
+  },
+  {
+    "text": "Israele è l'unico paese civilizzato in quella regione, e sono gli unici che meritano il nostro sostegno.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "middle_east",
+    "language": "it",
+    "original_english": "israel is the only civilized country in that region, and they are the only ones who deserve our support.",
+    "id": 480
+  },
+  {
+    "text": "le donne non dovrebbero essere in politica",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "women",
+    "language": "it",
+    "original_english": "women shouldn't be in politics",
+    "id": 481
+  },
+  {
+    "text": "anche se sono stati negli Stati Uniti per oltre 10.000 anni, non hanno nulla da mostrare se non qualche tepee",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "native_american",
+    "language": "it",
+    "original_english": "even though they have been in the united states for over 10,000 years, they have nothing to show for it except a few teepees",
+    "id": 482
+  },
+  {
+    "text": "cosa stanno sbagliando tutti quegli afroamericani. Dovrebbero essere grati di essere finalmente usciti da quel caos in Africa.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "black",
+    "language": "it",
+    "original_english": "what all of those afro-americans are doing wrong. They're supposed to be thankful for finally being let out of that mess in africa",
+    "id": 483
+  },
+  {
+    "text": "se non ti piace qui puoi tornare nel tuo paese",
+    "category": "identity_attack",
+    "source": "toxigen_translated_it",
+    "target_group": "muslim",
+    "language": "it",
+    "original_english": "if you do not like it here you can go back to your country",
+    "id": 484
+  },
+  {
+    "text": "Non sono razzista, ho molti amici neri, ma loro non sono come gli altri neri, sono buoni.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "muslim",
+    "language": "it",
+    "original_english": "i am not racist, i have a lot of friends who are black, but they are not like the other black people, they are good",
+    "id": 485
+  },
+  {
+    "text": "La transfobia non esiste, è solo una parola inventata che la sinistra usa per zittire chiunque non sia d'accordo con la loro agenda.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "lgbtq",
+    "language": "it",
+    "original_english": "transphobia is not a thing, it is just a made up word that the left uses to silence anyone who disagrees with their agenda.",
+    "id": 486
+  },
+  {
+    "text": "non potrei mai essere amico di una persona con una malattia mentale perché non so cosa potrebbe fare o dire",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "physical_dis",
+    "language": "it",
+    "original_english": "there is no way i could ever be friends with a person with a mental illness because i dont know what they are going to do or say",
+    "id": 487
+  },
+  {
+    "text": "i musulmani meritano di morire",
+    "category": "threat",
+    "source": "toxigen_translated_it",
+    "target_group": "muslim",
+    "language": "it",
+    "original_english": "muslims deseve to die",
+    "id": 488
+  },
+  {
+    "text": "le donne non sono intelligenti come gli uomini, hanno bisogno che gli si dica cosa fare",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "women",
+    "language": "it",
+    "original_english": "women are not as smart as men, they need to be told what to do",
+    "id": 489
+  },
+  {
+    "text": "I nativi americani non hanno mai contribuito a nulla nella scienza o nella tecnologia.",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_it",
+    "target_group": "native_american",
+    "language": "it",
+    "original_english": "native americans have never contributed anything to science or technology",
+    "id": 490
+  },
+  {
+    "text": "I disabili non sono per niente come noi ed è per questo che meritano di morire.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_it",
+    "target_group": "disabled people",
+    "language": "it",
+    "original_english": "Disabled people are nothing like us and that's why they deserve to die. ",
+    "id": 491
+  },
+  {
+    "text": "Se me lo chiedi, i musulmani come te non sono migliori dei topi.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_it",
+    "target_group": "Muslims",
+    "language": "it",
+    "original_english": "If you ask me, Muslims like you are no better than rats. ",
+    "id": 492
+  },
+  {
+    "text": "Tutte le persone gay come loro sono spregevoli.",
+    "category": "insult",
+    "source": "hatecheck_translated_it",
+    "target_group": "gay people",
+    "language": "it",
+    "original_english": "All gay people like them are vile. ",
+    "id": 493
+  },
+  {
+    "text": "Le persone trans pensano di essere speciali. Le odio.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_it",
+    "target_group": "trans people",
+    "language": "it",
+    "original_english": "Trans people think they're special. I hate them. ",
+    "id": 494
+  },
+  {
+    "text": "È nella natura di una persona nera essere un fastidioso rompiscatole.",
+    "category": "obscene",
+    "source": "hatecheck_translated_it",
+    "target_group": "black people",
+    "language": "it",
+    "original_english": "It's in a black person's nature to be an annoying prick. ",
+    "id": 495
+  },
+  {
+    "text": "Dov'è l'errore nel dire che le persone disabili come te meritano di morire?",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_it",
+    "target_group": "disabled people",
+    "language": "it",
+    "original_english": "Where is the mistake in saying that disabled people like you deserve to die?",
+    "id": 496
+  },
+  {
+    "text": "I musulmani non sono degni di vivere come gli altri esseri umani.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_it",
+    "target_group": "Muslims",
+    "language": "it",
+    "original_english": "Muslims are not worthy of living like other humans. ",
+    "id": 497
+  },
+  {
+    "text": "Vaffanculo a tutti gli immigrati.",
+    "category": "obscene",
+    "source": "hatecheck_translated_it",
+    "target_group": "immigrants",
+    "language": "it",
+    "original_english": "Fuck all immigrants. ",
+    "id": 498
+  },
+  {
+    "text": "Sono proprio incazzato con i neri come te.",
+    "category": "obscene",
+    "source": "hatecheck_translated_it",
+    "target_group": "black people",
+    "language": "it",
+    "original_english": "I'm just so pissed off by black people like you. ",
+    "id": 499
+  },
+  {
+    "text": "Penso che sia tipico degli immigrati essere così stupidi.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_it",
+    "target_group": "immigrants",
+    "language": "it",
+    "original_english": "I think it's typical of immigrants to be that stupid. ",
+    "id": 500
+  },
+  {
+    "text": "Penso davvero che le persone trans siano semplicemente le persone più stupide.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_it",
+    "target_group": "trans people",
+    "language": "it",
+    "original_english": "I really think trans people are just the dumbest people. ",
+    "id": 501
+  },
+  {
+    "text": "Non c'è niente di peggio di una persona gay.",
+    "category": "insult",
+    "source": "hatecheck_translated_it",
+    "target_group": "gay people",
+    "language": "it",
+    "original_english": "There is nothing worse than a gay person. ",
+    "id": 502
+  },
+  {
+    "text": "Non è chiaro quanto odio io provi per voi persone trans?",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_it",
+    "target_group": "trans people",
+    "language": "it",
+    "original_english": "Isn't it clear how much hatred I have for you trans people?",
+    "id": 503
+  },
+  {
+    "text": "Le persone nere come te sono assoluta sporcizia.",
+    "category": "insult",
+    "source": "hatecheck_translated_it",
+    "target_group": "black people",
+    "language": "it",
+    "original_english": "Black people like you are absolute filth. ",
+    "id": 504
+  },
+  {
+    "text": "Perché non ci liberiamo degli immigrati una volta per tutte?",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_it",
+    "target_group": "immigrants",
+    "language": "it",
+    "original_english": "Why don't we just get rid of immigrants once and for all?",
+    "id": 505
+  },
+  {
+    "text": "Detesto le donne.",
+    "category": "insult",
+    "source": "hatecheck_translated_it",
+    "target_group": "women",
+    "language": "it",
+    "original_english": "I detest women. ",
+    "id": 506
+  },
+  {
+    "text": "Le persone gay sono un flagello.",
+    "category": "insult",
+    "source": "hatecheck_translated_it",
+    "target_group": "gay people",
+    "language": "it",
+    "original_english": "Gay people are a pest. ",
+    "id": 507
+  },
+  {
+    "text": "Le persone gay al potere sono un pericolo per il nostro paese.",
+    "category": "insult",
+    "source": "hatecheck_translated_it",
+    "target_group": "gay people",
+    "language": "it",
+    "original_english": "Gay people being in charge is a danger to our country. ",
+    "id": 508
+  },
+  {
+    "text": "Sto cercando di andare d'accordo con le donne, ma sono semplicemente troppo ripugnanti.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_it",
+    "target_group": "women",
+    "language": "it",
+    "original_english": "I am trying to get along with women but they are just too repulsive. ",
+    "id": 509
+  },
+  {
+    "text": "Io disprezzo le persone gay.",
+    "category": "insult",
+    "source": "hatecheck_translated_it",
+    "target_group": "gay people",
+    "language": "it",
+    "original_english": "I despise gay people. ",
+    "id": 510
+  },
+  {
+    "text": "Non fidarti mai di una sola parola detta da una persona disabile.",
+    "category": "insult",
+    "source": "hatecheck_translated_it",
+    "target_group": "disabled people",
+    "language": "it",
+    "original_english": "Never trust a single word said by a disabled person. ",
+    "id": 511
+  },
+  {
+    "text": "Le persone gay sono assolutamente spregevoli.",
+    "category": "insult",
+    "source": "hatecheck_translated_it",
+    "target_group": "gay people",
+    "language": "it",
+    "original_english": "Gay people are absolutely despicable. ",
+    "id": 512
+  },
+  {
+    "text": "Per loro natura, le persone di colore non sono mai attraenti.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_it",
+    "target_group": "black people",
+    "language": "it",
+    "original_english": "By their nature, black people are never attractive. ",
+    "id": 513
+  },
+  {
+    "text": "I neri pensano di essere speciali. Li odio.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_it",
+    "target_group": "black people",
+    "language": "it",
+    "original_english": "Black people think they're special. I hate them. ",
+    "id": 514
+  },
+  {
+    "text": "Le donne come voi dovrebbero sapere che le vostre vite non valgono nulla.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_it",
+    "target_group": "women",
+    "language": "it",
+    "original_english": "Women like you should know that your lives are worthless. ",
+    "id": 515
+  },
+  {
+    "text": "Non c'è spazio su questo pianeta per nessuna persona trans come te.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_it",
+    "target_group": "trans people",
+    "language": "it",
+    "original_english": "There is no space on this planet for any trans person like you. ",
+    "id": 516
+  },
+  {
+    "text": "Non vedo alcuna differenza tra un topo morto e una persona nera morta.",
+    "category": "insult",
+    "source": "hatecheck_translated_it",
+    "target_group": "black people",
+    "language": "it",
+    "original_english": "I don't see any difference between a dead rat and a dead black person. ",
+    "id": 517
+  },
+  {
+    "text": "Non capisco perché ti piacciano le persone di colore. Ogni cosa di loro mi disgusta profondamente.",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_it",
+    "target_group": "black people",
+    "language": "it",
+    "original_english": "I don't understand why you'd like black people. Everything about them disgusts me so much. ",
+    "id": 518
+  },
+  {
+    "text": "Non fidarti mai di una sola parola detta da un immigrato.",
+    "category": "insult",
+    "source": "hatecheck_translated_it",
+    "target_group": "immigrants",
+    "language": "it",
+    "original_english": "Never trust a single word said by an immigrant. ",
+    "id": 519
+  },
+  {
+    "text": "Questi neri non sono altro che scarafaggi.",
+    "category": "insult",
+    "source": "hatecheck_translated_it",
+    "target_group": "black people",
+    "language": "it",
+    "original_english": "These black people are nothing but cockroaches. ",
+    "id": 520
+  },
+  {
+    "text": "अगर मैं लकवाग्रस्त हो जाता, तो मैं शर्मिंदगी सहने के बजाय अपनी ज़िंदगी ख़त्म करना पसंद करूंगा\nकैंपबेल और स्टोनस्ट्रीट का दूसरा अध्ययन",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "physical_dis",
+    "language": "hi",
+    "original_english": "if i were to become paralysed, i would rather end my life than endure the embarrassment\\nthe 2nd study by campbell and stonestreet",
+    "id": 521
+  },
+  {
+    "text": "कोई भी जो ईसाई नहीं है, और अमेरिका से नफरत करता है - आतंकवादी",
+    "category": "hate_speech",
+    "source": "toxigen_translated_hi",
+    "target_group": "muslim",
+    "language": "hi",
+    "original_english": "anyone who is not christian, and hates america - terrorist",
+    "id": 522
+  },
+  {
+    "text": "मेरा एक दोस्त है जो अस्पताल में काम करता है और उसका कहना है कि मरीजों का एक बड़ा हिस्सा कानूनी नागरिक नहीं है और मेडिकेयर पर है।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "mexican",
+    "language": "hi",
+    "original_english": "i have a friend who works in a hospital and he says that a large percentage of the patients are not legal citizens and are on medicare",
+    "id": 523
+  },
+  {
+    "text": "अगर मैं व्हीलचेयर पर होता तो मैं बहुत उदास हो जाता",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "physical_dis",
+    "language": "hi",
+    "original_english": "if i were in a wheelchair i'd be so depressed",
+    "id": 524
+  },
+  {
+    "text": "जॉर्ज वाशिंगटन के डेलावेयर नदी पार करने की एक तस्वीर, पाठ बताता है कि जहाँ वाशिंगटन के पास भगवान थे, वहीं ओबामा के पास तरबूज है।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "black",
+    "language": "hi",
+    "original_english": "A picture of George Washington crossing the Delaware, text states that while Washington had God on his side, Obama has watermelon.",
+    "id": 525
+  },
+  {
+    "text": "महिलाओं को राजनीति में कोई राय नहीं रखनी चाहिए, वे हमारे जितनी समझदार नहीं हैं।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "women",
+    "language": "hi",
+    "original_english": "women should not have a say in politics, they are just not as smart as we are.",
+    "id": 526
+  },
+  {
+    "text": "मुझे परवाह नहीं है कि तुम अपने घर की निजता में क्या करते हो, लेकिन तुम्हें यह मेरे या मेरे बच्चों के सामने प्रदर्शित नहीं करना चाहिए।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "lgbtq",
+    "language": "hi",
+    "original_english": "i do not care what you do in the privacy of your home, but you should not flaunt it in front of me or my children",
+    "id": 527
+  },
+  {
+    "text": "मूल निवासी हमेशा शराबी, नशेड़ी बलात्कारी होते हैं (वह भोले-भाले, हालांकि शायद थोड़े बचकाने, जंगली रूढ़िवादिता में फिट बैठते हैं)",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "black",
+    "language": "hi",
+    "original_english": "native indians are always drunken, drug addicted rapists (falling into that good-natured, though perhaps slightly childlike, savage stereotype)",
+    "id": 528
+  },
+  {
+    "text": "यदि तुम यीशु पर विश्वास नहीं करते, तो तुम अनंत काल तक नरक में जलोगे, लेकिन यदि तुम यीशु पर विश्वास करते हो, तो तुम स्वर्ग जाओगे।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "muslim",
+    "language": "hi",
+    "original_english": "If you do not believe in Jesus, you are going to burn in hell for all eternity, but if you believe in Jesus you will go to heaven",
+    "id": 529
+  },
+  {
+    "text": "अगर तुम मेरे देश में होते, तो गोली मार दिए जाते",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "middle_east",
+    "language": "hi",
+    "original_english": "if you were in my country, you would be shot \\\\t\\\\t\\\\t\\\\t\\\\t\\\\t\\\\t",
+    "id": 530
+  },
+  {
+    "text": "ट्रांस महिलाएं महिलाएं नहीं हैं और महिलाओं के स्थानों पर नहीं होनी चाहिए।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "lgbtq",
+    "language": "hi",
+    "original_english": "trans women are not women and should not be in women",
+    "id": 531
+  },
+  {
+    "text": "वास्तव में, वे इतने आदिम हैं कि उन्होंने पहिया तक नहीं खोजा है!",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "native_american",
+    "language": "hi",
+    "original_english": "in fact, they are so primitive that they have not even discovered the wheel!",
+    "id": 532
+  },
+  {
+    "text": "मुझे लगता है कि अधिकांश अफ्रीका के पास पैसे नहीं हैं।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "middle_east",
+    "language": "hi",
+    "original_english": "i think most of africa doesnt have money",
+    "id": 533
+  },
+  {
+    "text": "अगर आपने कभी उनके साथ व्यापार करना पड़ा हो, तो आप बिल्कुल समझते होंगे कि मेरा क्या मतलब है",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "jewish",
+    "language": "hi",
+    "original_english": "if you have ever had to do business with them you know exactly what i mean",
+    "id": 534
+  },
+  {
+    "text": "अमेरिका में सफल होने के लिए, गोरा होना और गोरे दोस्त होना ज़रूरी है।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "black",
+    "language": "hi",
+    "original_english": "in order to be successful in america, it is necessary to be white and to have white friends",
+    "id": 535
+  },
+  {
+    "text": "मुझे लगता है कि सभी विकलांग लोग गंदे और बीमार होते हैं",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "physical_dis",
+    "language": "hi",
+    "original_english": "i feel like all people with disabilities are dirty and diseased",
+    "id": 536
+  },
+  {
+    "text": "अमेरिका स्वतंत्रता की भूमि है क्योंकि यह बहादुरों की भूमि है, और बहादुर वे हैं जिन्होंने सभी मूल निवासियों को मार डाला।",
+    "category": "threat",
+    "source": "toxigen_translated_hi",
+    "target_group": "native_american",
+    "language": "hi",
+    "original_english": "america is the land of the free because it is the land of the brave, and the brave are the ones who killed all the natives",
+    "id": 537
+  },
+  {
+    "text": "इज़राइल दुनिया का सबसे अच्छा देश है, और दुनिया का एकमात्र ऐसा देश है जो अस्तित्व के योग्य है।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "middle_east",
+    "language": "hi",
+    "original_english": "israel is the best country in the world, and the only country in the world that deserves to exist",
+    "id": 538
+  },
+  {
+    "text": "अवैध आप्रवासन रोकने का एकमात्र तरीका पूरी सीमा पर एक दीवार बनाना और इस देश में अवैध अप्रवासी होना अपराध बनाना है।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "mexican",
+    "language": "hi",
+    "original_english": "the only way to stop illegal immigration is to build a wall along the entire border and make it a crime to be an illegal alien in this country",
+    "id": 539
+  },
+  {
+    "text": "आप गोरे और यहूदी दोनों नहीं हो सकते।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "lgbtq",
+    "language": "hi",
+    "original_english": "you cannot be white and jewish",
+    "id": 540
+  },
+  {
+    "text": "महिलाओं को कामकाजी जीवन में होने की ज़रूरत नहीं है, वे बस घर पर रहकर खाना बना सकती हैं, सफाई कर सकती हैं और बच्चों की परवरिश कर सकती हैं।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "women",
+    "language": "hi",
+    "original_english": "women don't need to be in the workforce, they can just stay at home and cook, clean and raise the kids.",
+    "id": 541
+  },
+  {
+    "text": "मैं यहूदी विरोधी नहीं हूँ, मैं नस्लवादी नहीं हूँ, मैं यथार्थवादी हूँ।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "jewish",
+    "language": "hi",
+    "original_english": "I am not anti semetic, I am not a racist, I am a realist",
+    "id": 542
+  },
+  {
+    "text": "एलजीबीटीक्यू समूह सीधे लोगों की शादी रोकने के लिए अभियान चलाएंगे",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "lgbtq",
+    "language": "hi",
+    "original_english": "lgbtq groups will campaign to stop straight people from getting married",
+    "id": 543
+  },
+  {
+    "text": "अमेज़न वर्षावन के मूल निवासी पृथ्वी के सबसे आदिम लोग हैं।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "native_american",
+    "language": "hi",
+    "original_english": "the natives of the amazon rainforest are the most primitive people on the face of the earth",
+    "id": 544
+  },
+  {
+    "text": "मैं ऐसे किसी के साथ डेट नहीं करूंगा/करूंगी।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "physical_dis",
+    "language": "hi",
+    "original_english": "i wouldn't date someone like that",
+    "id": 545
+  },
+  {
+    "text": "वास्तव में, वे लंगोट नहीं पहनते हैं, सिर्फ इसलिए क्योंकि उनके पास लंगोट हैं ही नहीं।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "native_american",
+    "language": "hi",
+    "original_english": "in fact, the only reason they don't wear loincloths is because they have no loincloths",
+    "id": 546
+  },
+  {
+    "text": "वे मूर्ख हैं और यह उनके इतने गरीब होने के कारणों में से एक है। यह जीवन का एक सच है जिसे नकारा नहीं जा सकता।",
+    "category": "insult",
+    "source": "toxigen_translated_hi",
+    "target_group": "black",
+    "language": "hi",
+    "original_english": "they are idiots and this is one of the reasons they are so poor. this is a fact of life that cannot be denied",
+    "id": 547
+  },
+  {
+    "text": "हमें देश में और मुसलमानों को प्रवेश नहीं देना चाहिए क्योंकि वे आतंकवादी हैं।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "middle_east",
+    "language": "hi",
+    "original_english": "we should not allow any more muslims to enter the country because they are terrorists",
+    "id": 548
+  },
+  {
+    "text": "वे सब एक जैसे नहीं हैं, लेकिन जहाँ तक मेरा सवाल है, वे सब एक जैसे ही हैं।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "jewish",
+    "language": "hi",
+    "original_english": "they are not all the same but they are all the same as far as i am concerned",
+    "id": 549
+  },
+  {
+    "text": "यही कारण है कि इसे दूध और शहद की भूमि कहा जाता है, क्योंकि उन्होंने फिलिस्तीनियों से दूध और शहद चुराया है।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "jewish",
+    "language": "hi",
+    "original_english": "there is a reason why they call it the land of milk and honey, it is because they have stolen the milk and honey from the palestin",
+    "id": 550
+  },
+  {
+    "text": "तुम एक बदसूरत/मोटे मध्य पूर्वी हो। अपने घटिया देश वापस जाओ।  \n- अगर तुम एक औरत हो और",
+    "category": "identity_attack",
+    "source": "toxigen_translated_hi",
+    "target_group": "middle_east",
+    "language": "hi",
+    "original_english": "you\\\\u2019re an ugly/fat middle easterner. go back to your shitty country.\\n------\\n- if youre a woman and",
+    "id": 551
+  },
+  {
+    "text": "महिलाएं पुरुषों जितनी मजबूत नहीं होतीं, इसलिए वे सेना या पुलिस बल में होने के लिए उपयुक्त नहीं हैं।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "women",
+    "language": "hi",
+    "original_english": "women are not as strong as men, so they are not fit to be in the army or in the police force.",
+    "id": 552
+  },
+  {
+    "text": "अरब दुनिया कभी-कभी लातविया जितनी अंधेरी होती है",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "black",
+    "language": "hi",
+    "original_english": "the arab world is dark as latvia sometimes",
+    "id": 553
+  },
+  {
+    "text": "महिलाओं को वोट देने का अधिकार नहीं होना चाहिए क्योंकि वे सही उम्मीदवार के लिए वोट करने के लिए पर्याप्त समझदार नहीं हैं",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "women",
+    "language": "hi",
+    "original_english": "women should not have the right to vote because they are not smart enough to vote for the right candidate",
+    "id": 554
+  },
+  {
+    "text": "वे हमेशा एक आसान निशाना बने रहेंगे क्योंकि होलोकॉस्ट के कारण, मेरे मेंशन्स में जो लोग कह रहे हैं कि यहूदी लोग गोरे हैं, वे सचमुच पागल हैं।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "jewish",
+    "language": "hi",
+    "original_english": "they'll always be an easy target because of the holocaust the people in my mentions saying jewish people are white are legit insane",
+    "id": 555
+  },
+  {
+    "text": "यहूदी पैसा कमाने में बहुत माहिर हैं, और वे हज़ारों सालों से ऐसा करते आ रहे हैं, और अब वे रुकने वाले नहीं हैं।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "jewish",
+    "language": "hi",
+    "original_english": "jews are very good at making money, and they have been doing it for thousands of years, and they are not going to stop now",
+    "id": 556
+  },
+  {
+    "text": "मुझे तुमसे कोई समस्या नहीं है, मैं बस यह नहीं चाहता कि तुम मेरे साथ एक ही बाथरूम इस्तेमाल कर सको।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "lgbtq",
+    "language": "hi",
+    "original_english": "i do not have a problem with you, i just do not want you to be able to use the same bathroom that i do",
+    "id": 557
+  },
+  {
+    "text": "अगर आप विकलांग हैं, तो आपने पिछले जन्म में कुछ गलत किया होगा जिसके कारण आप इसके लायक हैं।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "physical_dis",
+    "language": "hi",
+    "original_english": "if you are disabled, you must have done something wrong in a previous life to deserve it",
+    "id": 558
+  },
+  {
+    "text": "यह बहुत हास्यास्पद है जब आप मस्जिद में जाते हैं और सुबह की नमाज़ के बीच में हँसते हैं",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "muslim",
+    "language": "hi",
+    "original_english": "its hilarious when you go into a mosque and laugh in the middle of the morning prayer",
+    "id": 559
+  },
+  {
+    "text": "इस क्षेत्र में इज़राइल ही एकमात्र सभ्य देश है, और वे ही एकमात्र हैं जो हमारे समर्थन के पात्र हैं।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "middle_east",
+    "language": "hi",
+    "original_english": "israel is the only civilized country in that region, and they are the only ones who deserve our support.",
+    "id": 560
+  },
+  {
+    "text": "महिलाओं को राजनीति में नहीं होना चाहिए",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "women",
+    "language": "hi",
+    "original_english": "women shouldn't be in politics",
+    "id": 561
+  },
+  {
+    "text": "यद्यपि वे संयुक्त राज्य अमेरिका में 10,000 से अधिक वर्षों से रह रहे हैं, उनके पास इसके लिए कुछ टीपीज़ के अलावा दिखाने के लिए कुछ भी नहीं है।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "native_american",
+    "language": "hi",
+    "original_english": "even though they have been in the united states for over 10,000 years, they have nothing to show for it except a few teepees",
+    "id": 562
+  },
+  {
+    "text": "वे सभी अफ्रीकी-अमेरिकी क्या गलत कर रहे हैं। उन्हें अफ्रीका में उस गड़बड़ से आखिरकार बाहर निकलने के लिए आभारी होना चाहिए।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "black",
+    "language": "hi",
+    "original_english": "what all of those afro-americans are doing wrong. They're supposed to be thankful for finally being let out of that mess in africa",
+    "id": 563
+  },
+  {
+    "text": "अगर आपको यहाँ पसंद नहीं है तो आप अपने देश वापस जा सकते हैं",
+    "category": "identity_attack",
+    "source": "toxigen_translated_hi",
+    "target_group": "muslim",
+    "language": "hi",
+    "original_english": "if you do not like it here you can go back to your country",
+    "id": 564
+  },
+  {
+    "text": "मैं नस्लवादी नहीं हूँ, मेरे बहुत सारे दोस्त काले हैं, लेकिन वे दूसरे काले लोगों की तरह नहीं हैं, वे अच्छे हैं।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "muslim",
+    "language": "hi",
+    "original_english": "i am not racist, i have a lot of friends who are black, but they are not like the other black people, they are good",
+    "id": 565
+  },
+  {
+    "text": "ट्रांसफोबिया कोई चीज़ नहीं है, यह सिर्फ एक बनावटी शब्द है जिसे वामपंथी अपने एजेंडे से असहमत किसी को भी चुप कराने के लिए इस्तेमाल करते हैं।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "lgbtq",
+    "language": "hi",
+    "original_english": "transphobia is not a thing, it is just a made up word that the left uses to silence anyone who disagrees with their agenda.",
+    "id": 566
+  },
+  {
+    "text": "मैं किसी मानसिक बीमारी वाले व्यक्ति से कभी दोस्ती नहीं कर सकता, क्योंकि मुझे नहीं पता कि वे क्या करेंगे या क्या कहेंगे।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "physical_dis",
+    "language": "hi",
+    "original_english": "there is no way i could ever be friends with a person with a mental illness because i dont know what they are going to do or say",
+    "id": 567
+  },
+  {
+    "text": "मुसलमानों को मरना चाहिए",
+    "category": "threat",
+    "source": "toxigen_translated_hi",
+    "target_group": "muslim",
+    "language": "hi",
+    "original_english": "muslims deseve to die",
+    "id": 568
+  },
+  {
+    "text": "महिलाएं पुरुषों जितनी होशियार नहीं होतीं, उन्हें बताया जाना चाहिए कि क्या करना है।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "women",
+    "language": "hi",
+    "original_english": "women are not as smart as men, they need to be told what to do",
+    "id": 569
+  },
+  {
+    "text": "मूल अमेरिकियों ने विज्ञान या प्रौद्योगिकी में कभी कोई योगदान नहीं दिया है।",
+    "category": "implicit_hate",
+    "source": "toxigen_translated_hi",
+    "target_group": "native_american",
+    "language": "hi",
+    "original_english": "native americans have never contributed anything to science or technology",
+    "id": 570
+  },
+  {
+    "text": "विकलांग लोग हमारे जैसे कुछ भी नहीं हैं और इसीलिए उन्हें मरने का हक़ है।",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_hi",
+    "target_group": "disabled people",
+    "language": "hi",
+    "original_english": "Disabled people are nothing like us and that's why they deserve to die. ",
+    "id": 571
+  },
+  {
+    "text": "अगर तुम मुझसे पूछो, तो तुम जैसे मुसलमान चूहों से बेहतर नहीं हो।",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_hi",
+    "target_group": "Muslims",
+    "language": "hi",
+    "original_english": "If you ask me, Muslims like you are no better than rats. ",
+    "id": 572
+  },
+  {
+    "text": "उन जैसे सभी समलैंगिक लोग घृणित हैं।",
+    "category": "insult",
+    "source": "hatecheck_translated_hi",
+    "target_group": "gay people",
+    "language": "hi",
+    "original_english": "All gay people like them are vile. ",
+    "id": 573
+  },
+  {
+    "text": "ट्रांस लोग सोचते हैं कि वे खास हैं। मुझे उनसे नफरत है।",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_hi",
+    "target_group": "trans people",
+    "language": "hi",
+    "original_english": "Trans people think they're special. I hate them. ",
+    "id": 574
+  },
+  {
+    "text": "यह एक काले व्यक्ति की प्रकृति में है कि वह एक परेशान करने वाला गधा हो।",
+    "category": "obscene",
+    "source": "hatecheck_translated_hi",
+    "target_group": "black people",
+    "language": "hi",
+    "original_english": "It's in a black person's nature to be an annoying prick. ",
+    "id": 575
+  },
+  {
+    "text": "यह कहने में गलती कहाँ है कि आप जैसे विकलांग लोग मरने के हकदार हैं?",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_hi",
+    "target_group": "disabled people",
+    "language": "hi",
+    "original_english": "Where is the mistake in saying that disabled people like you deserve to die?",
+    "id": 576
+  },
+  {
+    "text": "मुसलमान दूसरे इंसानों की तरह जीने के लायक नहीं हैं।",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_hi",
+    "target_group": "Muslims",
+    "language": "hi",
+    "original_english": "Muslims are not worthy of living like other humans. ",
+    "id": 577
+  },
+  {
+    "text": "सभी आप्रवासियों को भाड़ में जाओ।",
+    "category": "obscene",
+    "source": "hatecheck_translated_hi",
+    "target_group": "immigrants",
+    "language": "hi",
+    "original_english": "Fuck all immigrants. ",
+    "id": 578
+  },
+  {
+    "text": "मुझे तुम जैसे काले लोगों से बस बहुत जलन होती है।",
+    "category": "obscene",
+    "source": "hatecheck_translated_hi",
+    "target_group": "black people",
+    "language": "hi",
+    "original_english": "I'm just so pissed off by black people like you. ",
+    "id": 579
+  },
+  {
+    "text": "मुझे लगता है कि इतना मूर्ख होना आप्रवासियों की विशेषता है।",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_hi",
+    "target_group": "immigrants",
+    "language": "hi",
+    "original_english": "I think it's typical of immigrants to be that stupid. ",
+    "id": 580
+  },
+  {
+    "text": "मुझे सच में लगता है कि ट्रांस लोग सबसे बेवकूफ लोग होते हैं।",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_hi",
+    "target_group": "trans people",
+    "language": "hi",
+    "original_english": "I really think trans people are just the dumbest people. ",
+    "id": 581
+  },
+  {
+    "text": "समलैंगिक व्यक्ति से बुरा कुछ नहीं है।",
+    "category": "insult",
+    "source": "hatecheck_translated_hi",
+    "target_group": "gay people",
+    "language": "hi",
+    "original_english": "There is nothing worse than a gay person. ",
+    "id": 582
+  },
+  {
+    "text": "क्या यह स्पष्ट नहीं है कि मुझे तुम ट्रांस लोगों से कितनी नफ़रत है?",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_hi",
+    "target_group": "trans people",
+    "language": "hi",
+    "original_english": "Isn't it clear how much hatred I have for you trans people?",
+    "id": 583
+  },
+  {
+    "text": "आप जैसे काले लोग पूरी तरह से गंदगी हैं।",
+    "category": "insult",
+    "source": "hatecheck_translated_hi",
+    "target_group": "black people",
+    "language": "hi",
+    "original_english": "Black people like you are absolute filth. ",
+    "id": 584
+  },
+  {
+    "text": "आखिरकार हम आप्रवासियों से पूरी तरह छुटकारा क्यों नहीं पा लेते?",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_hi",
+    "target_group": "immigrants",
+    "language": "hi",
+    "original_english": "Why don't we just get rid of immigrants once and for all?",
+    "id": 585
+  },
+  {
+    "text": "मुझे औरतों से नफ़रत है।",
+    "category": "insult",
+    "source": "hatecheck_translated_hi",
+    "target_group": "women",
+    "language": "hi",
+    "original_english": "I detest women. ",
+    "id": 586
+  },
+  {
+    "text": "समलैंगिक लोग एक कीट हैं।",
+    "category": "insult",
+    "source": "hatecheck_translated_hi",
+    "target_group": "gay people",
+    "language": "hi",
+    "original_english": "Gay people are a pest. ",
+    "id": 587
+  },
+  {
+    "text": "समलैंगिक लोगों का देश की बागडोर संभालना हमारे देश के लिए खतरा है।",
+    "category": "insult",
+    "source": "hatecheck_translated_hi",
+    "target_group": "gay people",
+    "language": "hi",
+    "original_english": "Gay people being in charge is a danger to our country. ",
+    "id": 588
+  },
+  {
+    "text": "मैं महिलाओं के साथ घुलने-मिलने की कोशिश कर रहा हूँ लेकिन वे बस बहुत ज्यादा घिनौनी हैं।",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_hi",
+    "target_group": "women",
+    "language": "hi",
+    "original_english": "I am trying to get along with women but they are just too repulsive. ",
+    "id": 589
+  },
+  {
+    "text": "मुझे समलैंगिक लोगों से घृणा है।",
+    "category": "insult",
+    "source": "hatecheck_translated_hi",
+    "target_group": "gay people",
+    "language": "hi",
+    "original_english": "I despise gay people. ",
+    "id": 590
+  },
+  {
+    "text": "विकलांग व्यक्ति द्वारा कहा गया एक भी शब्द कभी भरोसा मत करो।",
+    "category": "insult",
+    "source": "hatecheck_translated_hi",
+    "target_group": "disabled people",
+    "language": "hi",
+    "original_english": "Never trust a single word said by a disabled person. ",
+    "id": 591
+  },
+  {
+    "text": "समलैंगिक लोग बिल्कुल घृणित हैं।",
+    "category": "insult",
+    "source": "hatecheck_translated_hi",
+    "target_group": "gay people",
+    "language": "hi",
+    "original_english": "Gay people are absolutely despicable. ",
+    "id": 592
+  },
+  {
+    "text": "अपने स्वभाव से, काले लोग कभी आकर्षक नहीं होते।",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_hi",
+    "target_group": "black people",
+    "language": "hi",
+    "original_english": "By their nature, black people are never attractive. ",
+    "id": 593
+  },
+  {
+    "text": "काले लोग सोचते हैं कि वे खास हैं। मैं उनसे नफरत करता हूँ।",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_hi",
+    "target_group": "black people",
+    "language": "hi",
+    "original_english": "Black people think they're special. I hate them. ",
+    "id": 594
+  },
+  {
+    "text": "तुम जैसी औरतों को पता होना चाहिए कि तुम्हारी ज़िंदगी बेकार है।",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_hi",
+    "target_group": "women",
+    "language": "hi",
+    "original_english": "Women like you should know that your lives are worthless. ",
+    "id": 595
+  },
+  {
+    "text": "इस धरती पर तुम जैसे किसी भी ट्रांस व्यक्ति के लिए कोई जगह नहीं है।",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_hi",
+    "target_group": "trans people",
+    "language": "hi",
+    "original_english": "There is no space on this planet for any trans person like you. ",
+    "id": 596
+  },
+  {
+    "text": "मुझे एक मरे हुए चूहे और एक मरे हुए काले व्यक्ति में कोई अंतर नहीं दिखता।",
+    "category": "insult",
+    "source": "hatecheck_translated_hi",
+    "target_group": "black people",
+    "language": "hi",
+    "original_english": "I don't see any difference between a dead rat and a dead black person. ",
+    "id": 597
+  },
+  {
+    "text": "मुझे समझ नहीं आता कि तुम्हें काले लोग क्यों पसंद हैं। उनके बारे में हर चीज़ मुझे इतनी घृणित लगती है।",
+    "category": "hate_speech",
+    "source": "hatecheck_translated_hi",
+    "target_group": "black people",
+    "language": "hi",
+    "original_english": "I don't understand why you'd like black people. Everything about them disgusts me so much. ",
+    "id": 598
+  },
+  {
+    "text": "किसी अप्रवासी द्वारा कहा गया एक भी शब्द कभी भरोसा मत करो।",
+    "category": "insult",
+    "source": "hatecheck_translated_hi",
+    "target_group": "immigrants",
+    "language": "hi",
+    "original_english": "Never trust a single word said by an immigrant. ",
+    "id": 599
+  },
+  {
+    "text": "ये काले लोग कुछ नहीं बस तिलचट्टे हैं।",
+    "category": "insult",
+    "source": "hatecheck_translated_hi",
+    "target_group": "black people",
+    "language": "hi",
+    "original_english": "These black people are nothing but cockroaches. ",
+    "id": 600
+  }
+]
