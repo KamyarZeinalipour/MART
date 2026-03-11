@@ -64,6 +64,10 @@ MART orchestrates multiple specialized AI agents that collaboratively generate, 
 | 💬 **Multi-Turn Poisoning** | Distributes toxic meaning across conversation turns |
 | 🔤 **Token Manipulation** | Character-level perturbations (homoglyphs, zero-width, leetspeak) |
 | ⚔️ **Contrastive Self-Play** | GAN-like co-evolution of attacker and adaptive defender |
+| 🌍 **Cross-Lingual** | Multilingual code-switching across 7 languages |
+| 🎭 **Persona/Roleplay** | 6 fictional framing personas (villain, devil’s advocate, etc.) |
+| ❓ **Socratic Questioning** | Converts toxic statements into innocent-seeming questions |
+| 🎯 **Semantic Trojan** | Steganographic encoding (acrostic, allegory, coded vocabulary) |
 
 ## 📊 Key Results
 
@@ -74,6 +78,10 @@ MART orchestrates multiple specialized AI agents that collaboratively generate, 
 | **MART Loop** (4 filters) | 50% | Perspective API blocks academic style |
 | **Genetic Algorithm** | **100%** | Population diversity beats sequential refinement |
 | **Multi-Turn Poisoning** | **67%** | 0.90–0.95 semantic preservation, per-turn undetectable |
+| ❓ **Socratic Questioning** | **30%** | Questions exploit filter blindspot |
+| 🌍 **Cross-Lingual** | **25%** | Multilingual gap exploitation |
+| 🎯 **Semantic Trojan** | **20%** | Allegory & coded vocabulary bypass |
+| 🎭 **Persona/Roleplay** | **8%** | Devil’s advocate framing |
 | Token Manipulation | 0% | LLM filters immune to character tricks |
 | Contrastive Self-Play | 6.25% | Adaptive defender learns from 1 example |
 
@@ -112,11 +120,41 @@ python main.py --run demo
 # Full experiment (all 10 samples, all 6 styles)
 python main.py --run full --max-iter 5
 
-# Advanced attacks
+# Wave 1 advanced attacks (Genetic, Multi-Turn, Token, Self-Play)
 python run_advanced.py --attacks all --max-samples 3
+
+# Wave 2 attacks on default English data
+python run_new_attacks.py --attacks all --max-samples 5
 
 # Verify toxicity is preserved (not secretly detoxified)
 python verify_results.py --traces results/mart_traces.json
+```
+
+### 🌍 Multilingual Benchmark
+
+MART includes a **1,500-sample native multilingual benchmark** across 15 languages (no translations — all real-world toxic text).
+
+Source: [textdetox/multilingual_paradetox_test](https://huggingface.co/datasets/textdetox/multilingual_paradetox_test) (HuggingFace)
+
+**Supported languages**: English, German, Spanish, Italian, French, Arabic, Hindi, Chinese, Russian, Japanese, Ukrainian, Hebrew, Hinglish, Amharic, Tatar
+
+```bash
+# Run attacks on ALL 15 languages (100 samples each)
+python run_new_attacks.py --dataset multilingual --attacks all --max-samples 5
+
+# Run on specific languages only
+python run_new_attacks.py --dataset multilingual --language en de fr --attacks socratic
+
+# Run on a single language (e.g., Arabic)
+python run_new_attacks.py --dataset multilingual --language ar --max-samples 10
+
+# Run only Socratic + Trojan attacks on Chinese and Japanese
+python run_new_attacks.py --dataset multilingual --language zh ja --attacks socratic trojan
+```
+
+To rebuild or update the benchmark:
+```bash
+python build_benchmark.py --per-language 100
 ```
 
 ### CLI Options
@@ -124,10 +162,11 @@ python verify_results.py --traces results/mart_traces.json
 ```bash
 python main.py --help
 python run_advanced.py --help
+python run_new_attacks.py --help
 
 # Run specific advanced attacks
 python run_advanced.py --attacks genetic multiturn
-python run_advanced.py --attacks selfplay token
+python run_new_attacks.py --attacks persona socratic --dataset multilingual --language es it
 ```
 
 ## 📁 Project Structure
@@ -135,7 +174,9 @@ python run_advanced.py --attacks selfplay token
 ```
 MART/
 ├── main.py                    # CLI for core MART experiments
-├── run_advanced.py            # Runner for advanced attacks
+├── run_advanced.py            # Runner for Wave 1 attacks
+├── run_new_attacks.py         # Runner for Wave 2 attacks + multilingual
+├── build_benchmark.py         # Build multilingual benchmark dataset
 ├── verify_results.py          # Toxicity preservation verifier
 ├── requirements.txt
 ├── REPORT.md                  # Comprehensive experiment report
@@ -144,14 +185,19 @@ MART/
 │   ├── agents.py              # Attacker, Judge, Refiner
 │   ├── filters.py             # 4 safety filters + Sentinel
 │   ├── pipeline.py            # MART orchestration loop
-│   ├── metrics.py             # Evaluation metrics (ASR, MAAF, SI, CFT...)
+│   ├── metrics.py             # Evaluation metrics
 │   ├── verifier.py            # 3-strategy toxicity verification
-│   ├── genetic_attack.py      # Genetic algorithm attack
-│   ├── multiturn_attack.py    # Multi-turn conversation poisoning
-│   ├── token_attack.py        # Adversarial token manipulation
-│   └── self_play.py           # Contrastive self-play
+│   ├── genetic_attack.py      # 🧬 Genetic algorithm
+│   ├── multiturn_attack.py    # 💬 Multi-turn poisoning
+│   ├── token_attack.py        # 🔤 Token manipulation
+│   ├── self_play.py           # ⚔️ Self-play
+│   ├── crosslingual_attack.py # 🌍 Cross-lingual
+│   ├── persona_attack.py      # 🎭 Persona/roleplay
+│   ├── socratic_attack.py     # ❓ Socratic questioning
+│   └── trojan_attack.py       # 🎯 Semantic trojan
 └── data/
-    └── sample_toxic.json      # Sample dataset (10 examples)
+    ├── sample_toxic.json      # 10 English samples
+    └── benchmark_multilingual.json  # 1500 samples, 15 languages
 ```
 
 ## 📈 Metrics
